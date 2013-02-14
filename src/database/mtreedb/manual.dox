@@ -1,0 +1,36 @@
+/*
+  File:        manual.doc
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace mtreedb {
+
+/*!
+  @page package_mtreedb The MTree Database Package
+
+  The MTree Database package contains classes that provide routines for
+  storage and retrieval of response information maintained in a metric tree
+  indexing structure.  These classes are:
+  - MPTCOUPLER::mtreedb::MTree
+  - MPTCOUPLER::mtreedb::MTreePoint
+  - MPTCOUPLER::mtreedb::MTreeObject
+  - MPTCOUPLER::mtreedb::MTreeObjectFactory
+  - MPTCOUPLER::mtreedb::MTreeSearchResult
+  - MPTCOUPLER::mtreedb::MTreeNode
+  - MPTCOUPLER::mtreedb::MTreeEntry
+  - MPTCOUPLER::mtreedb::MTreeKey
+  - MPTCOUPLER::mtreedb::MTreeDataStore
+  - MPTCOUPLER::mtreedb::MTreeSearchNode
+  - MPTCOUPLER::mtreedb::MTreeSearchQueue
+  - MPTCOUPLER::mtreedb::MTreeQuery
+  - MPTCOUPLER::mtreedb::MTreeLevelStatistic
+  - MPTCOUPLER::mtreedb::MTreeNodeStat
+*/
+
+}
+}

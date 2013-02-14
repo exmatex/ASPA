@@ -1,0 +1,6 @@
+maxKrigingModelSize		4
+maxNumberSearchModels		4
+theta				1.2e3
+meanErrorFactor			1.0
+tolerance			1.0e-7
+maxQueryPointModelDistance	1.0e3

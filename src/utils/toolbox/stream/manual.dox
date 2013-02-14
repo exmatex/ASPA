@@ -1,0 +1,26 @@
+/*
+  File:        manual.dox
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace toolbox {
+/*!
+  @page package_toolbox_stream Stream Toolbox Classes
+
+  These classes provide basic support for portable message and file streams,
+  and the abstract interface for all stream-based interprocessor data 
+  communication in the MPTCOUPLER library.
+
+  - MPTCOUPLER::toolbox::AbstractStream
+  - MPTCOUPLER::toolbox::FileStream
+  - MPTCOUPLER::toolbox::MessageStream
+  - MPTCOUPLER::toolbox::XDRStream
+*/
+
+}
+}

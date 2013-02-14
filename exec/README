@@ -1,0 +1,43 @@
+Copyright:   (c) 2005-2007 The Regents of the University of California
+
+Example of ASPA usage:
+=====================
+
+Files:
+======
+Makefile         - 
+README           - This file.
+aspa.inp         - Input file for the test problem.
+main.cc          - Main driver for the test poblem.
+point_data.txt   - Input point data.
+value_data.txt   - Input value data.
+
+Compilation:
+============
+
+The build is performed by setting the following macros in the Makefile
+
+Macro          Meaning                 Example
+
+CXX            C++ compiler            CXX = g++
+CXXFLAGS       Compiler options        CXXFLAGS = -O2
+LAPACK_LOC     LAPACK library location LAPACK_LOC = /usr/local/lib/lapack
+BLAS_LOC       BLAS library location   BLAS_LOC = $(LAPACK_LOC)
+HDF5_LOC       HDF5 library location   HDF5_LOC = /usr/local/lib/hdf5-gnu-1.8.5
+
+and then typing
+
+$ gmake 
+
+on the command line. The resulting executable is aspa.
+
+Execution:
+==========
+
+The test example is executed as
+
+$ ./aspa point_data.txt value_data.txt
+
+The input parameters are read from aspa.inp.
+
+

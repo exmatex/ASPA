@@ -1,0 +1,26 @@
+/*
+  File:        manual.dox
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace toolbox {
+
+/*!
+  @page package_toolbox The Toolbox Package
+
+  The Toolbox package routines provide basic support for 
+  the MPTCOUPLER library.  These classes were pulled out of the SAMRAI library 
+  and modified slightly. The support is divided into these categories:
+  -# @ref package_toolbox_base "basic utilities"
+  -# @ref package_toolbox_parallel "MPI and communication schedules"
+  -# @ref package_toolbox_stream "message and file streams"
+  -# @ref package_toolbox_database "tools for hierarchical keyword-value data organization"
+*/
+
+}
+}

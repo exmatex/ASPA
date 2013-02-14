@@ -1,0 +1,25 @@
+/*
+  File:        manual.dox
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace toolbox {
+
+/*!
+  @page package_toolbox_database Database Toolbox Classes
+
+  These classes provide capablities to organize data in a keyword-value pair hierarchy.
+  There is an abstract base class defining an interface for this and a concrete implementation
+  of the interface using HDF5. 
+
+  - MPTCOUPLER::toolbox::Database
+  - MPTCOUPLER::toolbox::HDFDatabase
+*/
+
+}
+}

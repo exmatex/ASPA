@@ -1,0 +1,28 @@
+/*
+  File:        manual.doc
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace krigalg {
+
+/*!
+  @page package_krigalg The Kriging Algorithm Package
+
+  The Kriging Algorithm package contains classes that provide routines for
+  constructing local response approximation models based on kriging.
+  management are found here.  These classes are:
+  - krigalg::Point
+  - krigalg::Value
+
+  All class names in the Kriging Algorithm package are in the namespace
+  "krigalg".
+
+*/
+
+}
+}

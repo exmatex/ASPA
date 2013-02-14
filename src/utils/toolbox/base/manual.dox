@@ -1,0 +1,30 @@
+/*
+  File:        manual.dox
+  Package:     MPTCOUPLER Doxygen manual
+  Copyright:   (c) 2005-2006 The Regents of the University of California
+  Revision:    $Revision$
+  Modified:    $Date$
+  Description: Generation of MPTCOUPLER Doxygen source code manual
+*/
+
+namespace MPTCOUPLER {
+   namespace toolbox {
+
+/*!
+  @page package_toolbox_base Base Toolbox Classes
+
+  These classes provide miscellaneous low-level functionality for
+  the MPTCOUPLER library.  This includes IEEE floating point operation management, 
+  access to MPI routines, memory diagnostics, and parallel I/O support for generating 
+  log files and error reporting.
+
+  - MPTCOUPLER::toolbox::IEEE
+  - MPTCOUPLER::toolbox::MathUtilities
+  - MPTCOUPLER::toolbox::MemoryUtilities
+  - MPTCOUPLER::toolbox::PIO
+  - MPTCOUPLER::toolbox::ParallelBuffer
+  - MPTCOUPLER::toolbox::Utilities
+*/
+
+}
+}
