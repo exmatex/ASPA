@@ -14,10 +14,10 @@
 #include "asf_config.h"
 #endif
 
-#ifndef included_boost_shared_ptr
-#define included_boost_shared_ptr
-#include <boost/shared_ptr.hpp>
-#endif
+//#ifndef included_boost_shared_ptr
+//#define included_boost_shared_ptr
+//#include <boost/shared_ptr.hpp>
+//#endif
 
 #ifndef included_iostream
 #define included_iostream
@@ -33,7 +33,8 @@ namespace MPTCOUPLER {
     namespace mtreedb {
 
 class MTreePoint;
-typedef boost::shared_ptr<MTreePoint> MTreePointPtr;
+//typedef boost::shared_ptr<MTreePoint> MTreePointPtr;
+typedef std::shared_ptr<MTreePoint> MTreePointPtr;
 
 /*!
  * @brief MTreePoint is an abstract base class declaring the interface for 

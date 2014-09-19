@@ -27,10 +27,10 @@
 using namespace std;
 #endif
 
-#ifndef included_boost_shared_ptr
-#define included_boost_shared_ptr
-#include <boost/shared_ptr.hpp>
-#endif
+//#ifndef included_boost_shared_ptr
+//#define included_boost_shared_ptr
+//#include <boost/shared_ptr.hpp>
+//#endif
 
 #include "CorrelationModel.h"
 
@@ -47,7 +47,9 @@ namespace MPTCOUPLER {
   //
 
   class DerivativeCorrelationModel;
-  typedef boost::shared_ptr<DerivativeCorrelationModel> 
+  //  typedef boost::shared_ptr<DerivativeCorrelationModel> 
+  //    DerivativeCorrelationModelPointer;
+  typedef std::shared_ptr<DerivativeCorrelationModel> 
     DerivativeCorrelationModelPointer;
 
   //

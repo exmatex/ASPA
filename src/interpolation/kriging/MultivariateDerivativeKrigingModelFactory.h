@@ -48,7 +48,9 @@ namespace MPTCOUPLER {
     // local types
     //
 
-    typedef boost::shared_ptr<MultivariateDerivativeKrigingModelFactory>
+    //    typedef boost::shared_ptr<MultivariateDerivativeKrigingModelFactory>
+    //      MultivariateDerivativeKrigingModelFactoryPointer;
+    typedef std::shared_ptr<MultivariateDerivativeKrigingModelFactory>
       MultivariateDerivativeKrigingModelFactoryPointer;
 
     //

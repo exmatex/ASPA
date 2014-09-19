@@ -62,12 +62,13 @@ advertising or product endorsement purposes.
 #include "toolbox/base/Utilities.h"
 #endif 
 
-#ifdef DEBUG_CHECK_ASSERTIONS
-#ifndef included_cassert
-#define included_cassert
-#include <cassert>
-#endif
-#endif
+//#ifdef DEBUG_CHECK_ASSERTIONS
+//#ifndef included_cassert
+//#define included_cassert
+//#include <cassert>
+//#endif
+//#endif
+#include <assert.h>
 
 #ifndef included_mtreedb_MTree
 #include "MTree.h"

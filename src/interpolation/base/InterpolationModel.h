@@ -25,10 +25,11 @@
 #include "asf_config.h"
 #endif // included_config
 
-#ifndef included_boost_shared_ptr
-#define included_boost_shared_ptr
-#include <boost/shared_ptr.hpp>
-#endif
+//#ifndef included_boost_shared_ptr
+//#define included_boost_shared_ptr
+//#include <boost/shared_ptr.hpp>
+//#endif
+#include <memory>
  
 #ifndef included_vector
 #define included_vector
@@ -79,7 +80,8 @@ namespace MPTCOUPLER {
   // local types
   //
   
-  typedef boost::shared_ptr<InterpolationModel> InterpolationModelPtr;
+  //  typedef boost::shared_ptr<InterpolationModel> InterpolationModelPtr;
+  typedef std::shared_ptr<InterpolationModel> InterpolationModelPtr;
 
   /*!
    * @brief Interface for a generic interpolation model. The model

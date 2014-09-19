@@ -26,10 +26,10 @@ using namespace std;
 using namespace std;
 #endif
 
-#ifndef included_boost_shared_ptr
-#define included_boost_shared_ptr
-#include <boost/shared_ptr.hpp>
-#endif
+//#ifndef included_boost_shared_ptr
+//#define included_boost_shared_ptr
+//#include <boost/shared_ptr.hpp>
+//#endif
 
 #ifndef included_mtreedb_MTreeEntry
 #include "MTreeEntry.h"
@@ -41,7 +41,8 @@ namespace MPTCOUPLER {
 class MTree;
 
 class MTreeNode;
-typedef boost::shared_ptr<MTreeNode> MTreeNodePtr;
+//typedef boost::shared_ptr<MTreeNode> MTreeNodePtr;
+typedef std::shared_ptr<MTreeNode> MTreeNodePtr;
 
 /*!
  * @brief MTreeNode represents a node in an MTree.  Each node holds a 

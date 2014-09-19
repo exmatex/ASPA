@@ -42,6 +42,8 @@ HDF5_DEFINES = -DH5_USE_16_API
 # ===== Build options end here =====
 #
 
+# Need C++11 compatibility for std::shared_ptr objects
+CXXFLAGS += -std=c++0x
 CXXFLAGS += -I../src/mtl_headers -I../src/interpolation_database -I../src/interpolation -I../src/database -I../src/utils  -Dincluded_MPTCOUPLER_config -Dincluded_config -DDBL_SNAN_IS_BROKEN -DFLT_SNAN_IS_BROKEN
 
 LIBS =

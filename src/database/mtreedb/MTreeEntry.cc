@@ -57,6 +57,8 @@ advertising or product endorsement purposes.
 #include "MTreeEntry.I"
 #endif
 
+#include <assert.h>
+
 namespace MPTCOUPLER {
     namespace mtreedb {
 

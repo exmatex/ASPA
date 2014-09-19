@@ -52,7 +52,9 @@ namespace MPTCOUPLER {
     // local types
     //
 
-    typedef boost::shared_ptr<MultivariateKrigingModel> 
+    //    typedef boost::shared_ptr<MultivariateKrigingModel> 
+    //      MultivariateKrigingModelPtr;
+    typedef std::shared_ptr<MultivariateKrigingModel> 
       MultivariateKrigingModelPtr;
 
     //

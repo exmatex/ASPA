@@ -37,16 +37,17 @@ using namespace std;
 #include <hdf5.h>
 #endif
 
-#ifndef included_boost_shared_ptr
-#define included_boost_shared_ptr
-#include <boost/shared_ptr.hpp>
-#endif
+//#ifndef included_boost_shared_ptr
+//#define included_boost_shared_ptr
+//#include <boost/shared_ptr.hpp>
+//#endif
  
 namespace MPTCOUPLER {
    namespace toolbox {
  
 class HDFDatabase;
-typedef boost::shared_ptr<HDFDatabase> HDFDatabasePtr;
+//typedef boost::shared_ptr<HDFDatabase> HDFDatabasePtr;
+typedef std::shared_ptr<HDFDatabase> HDFDatabasePtr;
  
 /*!
  * @brief HDFDatabase implements the interface of the Database
