@@ -1,0 +1,1965 @@
+#
+# maxKrigingModelSize        = +4
+# maxNumberRecords           = +4
+# theta                      = +1.20000000000000000e+03
+# error ampl                 = +1.00000000000000000e+00
+# tolerance                  = +9.99999999999999955e-08
+# maxQueryPointModelDistance = +1.00000000000000000e+03
+#
+Processing point: +0
+Adding point :+0
+Processing point: +1
+Adding point :+1
+Processing point: +2
+Missed point: value Id +0 real value: +2.96854855633287151e+00 interp. value: +2.96854936858025242e+00 error +8.12247380910235961e-07 
+Processing point: +3
+Adding point :+3
+Processing point: +4
+Missed point: value Id +0 real value: +2.98419357606211655e+00 interp. value: +2.98419406238330298e+00 error +4.86321186432547847e-07 
+Processing point: +5
+Adding point :+5
+Processing point: +6
+Processing point: +7
+Missed point: value Id +0 real value: +2.99821804631719324e+00 interp. value: +2.99821865500440321e+00 error +6.08687209968650222e-07 
+Processing point: +8
+Adding point :+8
+Processing point: +9
+Adding point :+9
+Processing point: +10
+Adding point :+10
+Processing point: +11
+Adding point :+11
+Processing point: +12
+Adding point :+12
+Processing point: +13
+Adding point :+13
+Processing point: +14
+Missed point: value Id +0 real value: +2.98412745260559298e+00 interp. value: +2.98412673286594599e+00 error +7.19739646992678672e-07 
+Processing point: +15
+Missed point: value Id +0 real value: +2.98989593700328049e+00 interp. value: +2.98989507918851416e+00 error +8.57814766330733391e-07 
+Processing point: +16
+Missed point: value Id +0 real value: +2.99453717390403984e+00 interp. value: +2.99453675837238409e+00 error +4.15531655750811524e-07 
+Processing point: +17
+Adding point :+17
+Processing point: +18
+Adding point :+18
+Processing point: +19
+Adding point :+19
+Processing point: +20
+Adding point :+20
+Processing point: +21
+Adding point :+21
+Processing point: +22
+Missed point: value Id +0 real value: +2.96804895688358084e+00 interp. value: +2.96804822641149846e+00 error +7.30472082377531251e-07 
+Processing point: +23
+Missed point: value Id +0 real value: +2.97719708461470312e+00 interp. value: +2.97719673670485863e+00 error +3.47909844489180387e-07 
+Processing point: +24
+Missed point: value Id +0 real value: +2.98442763210663697e+00 interp. value: +2.98442660485661149e+00 error +1.02725002548709199e-06 
+Processing point: +25
+Adding point :+25
+Processing point: +26
+Processing point: +27
+Missed point: value Id +0 real value: +2.99847414351388863e+00 interp. value: +2.99847371985808220e+00 error +4.23655806436329385e-07 
+Processing point: +28
+Missed point: value Id +0 real value: +3.00143185621998088e+00 interp. value: +3.00143220201611927e+00 error +3.45796138390142005e-07 
+Processing point: +29
+Missed point: value Id +0 real value: +3.00379970571073462e+00 interp. value: +3.00379938048789441e+00 error +3.25222840213967856e-07 
+Processing point: +30
+Adding point :+30
+Processing point: +31
+Adding point :+31
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Processing point: +34
+Missed point: value Id +0 real value: +2.98561890390273854e+00 interp. value: +2.98561933497340082e+00 error +4.31070662276766825e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +2.99113968773313088e+00 interp. value: +2.99114014699223496e+00 error +4.59259104079734470e-07 
+Processing point: +36
+Missed point: value Id +0 real value: +2.99553322406659550e+00 interp. value: +2.99553311159960822e+00 error +1.12466987278736497e-07 
+Processing point: +37
+Missed point: value Id +0 real value: +2.99904511431307741e+00 interp. value: +2.99904474694090695e+00 error +3.67372170462232361e-07 
+Processing point: +38
+Missed point: value Id +0 real value: +3.00185798516202285e+00 interp. value: +3.00185846297547698e+00 error +4.77813454136111204e-07 
+Processing point: +39
+Missed point: value Id +0 real value: +3.00411352973455381e+00 interp. value: +3.00411331736363163e+00 error +2.12370922181293054e-07 
+Processing point: +40
+Adding point :+40
+Processing point: +41
+Missed point: value Id +0 real value: +2.96369530453976582e+00 interp. value: +2.96369518612305471e+00 error +1.18416711103463967e-07 
+Processing point: +42
+Missed point: value Id +0 real value: +2.97433488356803366e+00 interp. value: +2.97433435781427447e+00 error +5.25753759195168868e-07 
+Processing point: +43
+Missed point: value Id +1 real value: -2.66718513054334194e-01 interp. value: -2.66718613375560798e-01 error +1.00321226603750091e-07 
+Processing point: +44
+Missed point: value Id +0 real value: +2.98860390565438072e+00 interp. value: +2.98860309165832438e+00 error +8.13996056336918627e-07 
+Missed point: value Id +1 real value: -2.67407246580855795e-01 interp. value: -2.67407437952464133e-01 error +1.91371608337931320e-07 
+Processing point: +45
+Missed point: value Id +0 real value: +2.99346660365556083e+00 interp. value: +2.99346690047393027e+00 error +2.96818369438511809e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +2.99732170612876070e+00 interp. value: +2.99732149246479196e+00 error +2.13663968740007704e-07 
+Processing point: +47
+Missed point: value Id +0 real value: +3.00040641785452555e+00 interp. value: +3.00040603431913544e+00 error +3.83535390113820540e-07 
+Processing point: +48
+Missed point: value Id +0 real value: +3.00288342352747728e+00 interp. value: +3.00288362992660440e+00 error +2.06399127122836035e-07 
+Processing point: +49
+Missed point: value Id +0 real value: +3.00487447427391396e+00 interp. value: +3.00487419666932931e+00 error +2.77604584653090569e-07 
+Processing point: +50
+Missed point: value Id +0 real value: +2.96502617029964011e+00 interp. value: +2.96502569906263691e+00 error +4.71237003196733895e-07 
+Processing point: +51
+Missed point: value Id +0 real value: +2.97616429919852266e+00 interp. value: +2.97616377011413391e+00 error +5.29084388745104661e-07 
+Processing point: +52
+Missed point: value Id +0 real value: +2.98416943575259186e+00 interp. value: +2.98416925365517960e+00 error +1.82097412260162628e-07 
+Processing point: +53
+Adding point :+53
+Processing point: +54
+Missed point: value Id +0 real value: +2.99463268556346307e+00 interp. value: +2.99463255581089394e+00 error +1.29752569133501083e-07 
+Processing point: +55
+Missed point: value Id +0 real value: +2.99816556738344442e+00 interp. value: +2.99816540720561031e+00 error +1.60177834107599892e-07 
+Processing point: +56
+Missed point: value Id +0 real value: +3.00097109118166472e+00 interp. value: +3.00097088071871942e+00 error +2.10462945293699022e-07 
+Processing point: +57
+Missed point: value Id +0 real value: +3.00322138786082071e+00 interp. value: +3.00322153977362705e+00 error +1.51912806334308925e-07 
+Processing point: +58
+Missed point: value Id +0 real value: +3.00504975391263507e+00 interp. value: +3.00504930208656651e+00 error +4.51826068559313399e-07 
+Processing point: +59
+Missed point: value Id +0 real value: +3.00653280858038130e+00 interp. value: +3.00653256056924789e+00 error +2.48011133407999296e-07 
+Processing point: +60
+Adding point :+60
+Processing point: +61
+Processing point: +62
+Missed point: value Id +0 real value: +3.00064152347772106e+00 interp. value: +3.00064176073911337e+00 error +2.37261392310728070e-07 
+Processing point: +63
+Processing point: +64
+Missed point: value Id +0 real value: +3.00481254913208984e+00 interp. value: +3.00481191430453221e+00 error +6.34827557632888784e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.00620848876981261e+00 interp. value: +3.00620862520463605e+00 error +1.36434823438946751e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.00733153795204089e+00 interp. value: +3.00733076446135472e+00 error +7.73490686167832564e-07 
+Processing point: +67
+Missed point: value Id +0 real value: +3.00826356381542270e+00 interp. value: +3.00826283169434028e+00 error +7.32121082425152281e-07 
+Processing point: +68
+Processing point: +69
+Missed point: value Id +0 real value: +3.00967944544797028e+00 interp. value: +3.00967861280644255e+00 error +8.32641527725996866e-07 
+Processing point: +70
+Adding point :+70
+Processing point: +71
+Adding point :+71
+Processing point: +72
+Missed point: value Id +0 real value: +3.02289049222993800e+00 interp. value: +3.02288917563551429e+00 error +1.31659442370590796e-06 
+Processing point: +73
+Adding point :+73
+Processing point: +74
+Missed point: value Id +0 real value: +3.01893043188923960e+00 interp. value: +3.01893008493166004e+00 error +3.46957579555606799e-07 
+Processing point: +75
+Adding point :+75
+Processing point: +76
+Missed point: value Id +0 real value: +3.01655523534776115e+00 interp. value: +3.01655471056442703e+00 error +5.24783334121536882e-07 
+Processing point: +77
+Missed point: value Id +0 real value: +3.01575965471212681e+00 interp. value: +3.01575936378190690e+00 error +2.90930219914997679e-07 
+Processing point: +78
+Missed point: value Id +0 real value: +3.01515614697401357e+00 interp. value: +3.01515644792796111e+00 error +3.00953947540705258e-07 
+Processing point: +79
+Missed point: value Id +0 real value: +3.01468068783424759e+00 interp. value: +3.01468040001898618e+00 error +2.87815261401647149e-07 
+Processing point: +80
+Adding point :+80
+Processing point: +81
+Adding point :+81
+Processing point: +82
+Adding point :+82
+Processing point: +83
+Processing point: +84
+Missed point: value Id +0 real value: +3.03422069402634209e+00 interp. value: +3.03421988173151824e+00 error +8.12294823848702663e-07 
+Missed point: value Id +1 real value: -2.66241584504423479e-01 interp. value: -2.66241254428509988e-01 error +3.30075913490546213e-07 
+Processing point: +85
+Missed point: value Id +0 real value: +3.03012523803657174e+00 interp. value: +3.03012473296094997e+00 error +5.05075621770600947e-07 
+Missed point: value Id +1 real value: -2.66958026907964496e-01 interp. value: -2.66957515680295465e-01 error +5.11227669031111276e-07 
+Processing point: +86
+Missed point: value Id +0 real value: +3.02691142813378411e+00 interp. value: +3.02691107163460815e+00 error +3.56499175957480929e-07 
+Missed point: value Id +1 real value: -2.67519761414813595e-01 interp. value: -2.67519062085967485e-01 error +6.99328846109903424e-07 
+Processing point: +87
+Processing point: +88
+Missed point: value Id +0 real value: +3.02234156258292330e+00 interp. value: +3.02234180283431764e+00 error +2.40251394334478618e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.02071576521537999e+00 interp. value: +3.02071543272486398e+00 error +3.32490516008476789e-07 
+Processing point: +90
+Adding point :+90
+Processing point: +91
+Missed point: value Id +0 real value: +3.07758193782577250e+00 interp. value: +3.07758155334552175e+00 error +3.84480250747998298e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +3.06411689300445955e+00 interp. value: +3.06411669379021889e+00 error +1.99214240659273401e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.05379953462941067e+00 interp. value: +3.05379913815175952e+00 error +3.96477651154469868e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +3.04584372827306549e+00 interp. value: +3.04584388029514974e+00 error +1.52022084254355150e-07 
+Missed point: value Id +1 real value: -2.67511679659016233e-01 interp. value: -2.67511459650575989e-01 error +2.20008440243724124e-07 
+Processing point: +95
+Missed point: value Id +0 real value: +3.03964491661863656e+00 interp. value: +3.03964401310114285e+00 error +9.03517493711092357e-07 
+Missed point: value Id +1 real value: -2.67997424669796813e-01 interp. value: -2.67997028461428088e-01 error +3.96208368724781934e-07 
+Processing point: +96
+Missed point: value Id +0 real value: +3.03477592114540640e+00 interp. value: +3.03477485131527747e+00 error +1.06983012893024920e-06 
+Missed point: value Id +1 real value: -2.68375902739994454e-01 interp. value: -2.68375265403442753e-01 error +6.37336551700951048e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +3.03090717414943178e+00 interp. value: +3.03090680765329434e+00 error +3.66496137438332426e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.02780986747956682e+00 interp. value: +3.02781004003600218e+00 error +1.72556435362736238e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.02527408540081622e+00 interp. value: +3.02527442344678255e+00 error +3.38045966330469128e-07 
+Processing point: +0
+Missed point: value Id +0 real value: +3.00600067219216660e+00 interp. value: +3.00600041858390732e+00 error +2.53608259281890014e-07 
+Processing point: +1
+Missed point: value Id +0 real value: +3.00785212897483056e+00 interp. value: +3.00785195102873137e+00 error +1.77946099189085771e-07 
+Processing point: +2
+Missed point: value Id +0 real value: +3.00904759908563202e+00 interp. value: +3.00904770745199768e+00 error +1.08366365658696395e-07 
+Processing point: +3
+Missed point: value Id +0 real value: +3.00983058477716714e+00 interp. value: +3.00983083464702617e+00 error +2.49869859025864116e-07 
+Processing point: +4
+Missed point: value Id +0 real value: +3.01034592790658229e+00 interp. value: +3.01034611742260250e+00 error +1.89516020210334091e-07 
+Processing point: +5
+Missed point: value Id +0 real value: +3.01068494181860080e+00 interp. value: +3.01068521590575155e+00 error +2.74087150753388187e-07 
+Processing point: +6
+Missed point: value Id +0 real value: +3.01090535334034648e+00 interp. value: +3.01090561747577956e+00 error +2.64135433081236215e-07 
+Processing point: +7
+Missed point: value Id +0 real value: +3.01104389772544367e+00 interp. value: +3.01104402699874818e+00 error +1.29273304505517217e-07 
+Processing point: +8
+Missed point: value Id +0 real value: +3.01112471528341663e+00 interp. value: +3.01112516596171798e+00 error +4.50678301344709098e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +3.01116250011571607e+00 interp. value: +3.01116269110597701e+00 error +1.90990260939827294e-07 
+Processing point: +10
+Missed point: value Id +0 real value: +3.00601746545096615e+00 interp. value: +3.00601803150257751e+00 error +5.66051611361473306e-07 
+Processing point: +11
+Missed point: value Id +0 real value: +3.00787417012700509e+00 interp. value: +3.00787475320623887e+00 error +5.83079233784644657e-07 
+Processing point: +12
+Processing point: +13
+Missed point: value Id +0 real value: +3.00984422929994189e+00 interp. value: +3.00984409018129018e+00 error +1.39118651709679853e-07 
+Processing point: +14
+Missed point: value Id +0 real value: +3.01035537411465715e+00 interp. value: +3.01035566638213581e+00 error +2.92267478663177371e-07 
+Processing point: +15
+Missed point: value Id +0 real value: +3.01068914013330069e+00 interp. value: +3.01068966785226211e+00 error +5.27718961418344179e-07 
+Processing point: +16
+Missed point: value Id +0 real value: +3.01090535334034648e+00 interp. value: +3.01090561394863920e+00 error +2.60608292723674140e-07 
+Processing point: +17
+Missed point: value Id +0 real value: +3.01104179856809351e+00 interp. value: +3.01104169233776853e+00 error +1.06230324981027024e-07 
+Processing point: +18
+Processing point: +19
+Missed point: value Id +0 real value: +3.01115620264366646e+00 interp. value: +3.01115599628319419e+00 error +2.06360472265743056e-07 
+Processing point: +20
+Missed point: value Id +0 real value: +3.00609513427291475e+00 interp. value: +3.00609524036053744e+00 error +1.06087622686601435e-07 
+Processing point: +21
+Processing point: +22
+Missed point: value Id +0 real value: +3.00912946622228095e+00 interp. value: +3.00912980293215337e+00 error +3.36709872428286872e-07 
+Processing point: +23
+Processing point: +24
+Missed point: value Id +0 real value: +3.01039105978960642e+00 interp. value: +3.01039172413525469e+00 error +6.64345648271336131e-07 
+Processing point: +25
+Missed point: value Id +0 real value: +3.01071433002150002e+00 interp. value: +3.01071480560680449e+00 error +4.75585304471337622e-07 
+Processing point: +26
+Missed point: value Id +0 real value: +3.01091899786312078e+00 interp. value: +3.01091971704970218e+00 error +7.19186581399355873e-07 
+Processing point: +27
+Missed point: value Id +0 real value: +3.01104494730411831e+00 interp. value: +3.01104549313793868e+00 error +5.45833820364549638e-07 
+Processing point: +28
+Missed point: value Id +0 real value: +3.01111946739004210e+00 interp. value: +3.01111930356837654e+00 error +1.63821665566388219e-07 
+Processing point: +29
+Processing point: +30
+Processing point: +31
+Missed point: value Id +0 real value: +3.00815545721189981e+00 interp. value: +3.00815560604534715e+00 error +1.48833447344287606e-07 
+Processing point: +32
+Missed point: value Id +0 real value: +3.00930474586100249e+00 interp. value: +3.00930523755840085e+00 error +4.91697398352641812e-07 
+Processing point: +33
+Missed point: value Id +0 real value: +3.01003735177613807e+00 interp. value: +3.01003808015849561e+00 error +7.28382357539913983e-07 
+Processing point: +34
+Missed point: value Id +0 real value: +3.01050546386517892e+00 interp. value: +3.01050574748104349e+00 error +2.83615864571373777e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +3.01079934589417331e+00 interp. value: +3.01079975594578020e+00 error +4.10051606891670417e-07 
+Processing point: +36
+Missed point: value Id +0 real value: +3.01098302216229463e+00 interp. value: +3.01098313152241515e+00 error +1.09360120514878645e-07 
+Processing point: +37
+Missed point: value Id +0 real value: +3.01109112876581753e+00 interp. value: +3.01109151474151204e+00 error +3.85975694516815793e-07 
+Processing point: +38
+Missed point: value Id +0 real value: +3.01114885559294132e+00 interp. value: +3.01114920647646178e+00 error +3.50883520461309217e-07 
+Processing point: +39
+Missed point: value Id +0 real value: +3.01117929337451562e+00 interp. value: +3.01117911357995505e+00 error +1.79794560573043327e-07 
+Processing point: +40
+Missed point: value Id +0 real value: +3.00692010311144875e+00 interp. value: +3.00692048839199799e+00 error +3.85280549242139614e-07 
+Processing point: +41
+Missed point: value Id +0 real value: +3.00866135413324010e+00 interp. value: +3.00866151583137720e+00 error +1.61698137102206374e-07 
+Processing point: +42
+Missed point: value Id +0 real value: +3.00972982522436894e+00 interp. value: +3.00973053822781278e+00 error +7.13003443841842000e-07 
+Processing point: +43
+Processing point: +44
+Missed point: value Id +0 real value: +3.01079094926477309e+00 interp. value: +3.01079136162049021e+00 error +4.12355717127610433e-07 
+Processing point: +45
+Missed point: value Id +0 real value: +3.01103130278134357e+00 interp. value: +3.01103203065187008e+00 error +7.27870526517904182e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +3.01116774800909104e+00 interp. value: +3.01116746322823792e+00 error +2.84780853121446853e-07 
+Processing point: +47
+Missed point: value Id +0 real value: +3.01124331767368947e+00 interp. value: +3.01124370954172527e+00 error +3.91868035798381698e-07 
+Processing point: +48
+Missed point: value Id +0 real value: +3.01128530082068879e+00 interp. value: +3.01128601452260591e+00 error +7.13701917121056795e-07 
+Processing point: +49
+Processing point: +50
+Missed point: value Id +0 real value: +3.00822472940444863e+00 interp. value: +3.00822512537226183e+00 error +3.95967813204833874e-07 
+Processing point: +51
+Missed point: value Id +0 real value: +3.00975186637654391e+00 interp. value: +3.00975244843219425e+00 error +5.82055650344415199e-07 
+Processing point: +52
+Missed point: value Id +0 real value: +3.01063141330617645e+00 interp. value: +3.01063120711374399e+00 error +2.06192432461449471e-07 
+Processing point: +53
+Missed point: value Id +0 real value: +3.01113416149149149e+00 interp. value: +3.01113454389414592e+00 error +3.82402654430791245e-07 
+Processing point: +54
+Missed point: value Id +0 real value: +3.01140915110433616e+00 interp. value: +3.01140928305308808e+00 error +1.31948751924682028e-07 
+Processing point: +55
+Missed point: value Id +0 real value: +3.01154559633208363e+00 interp. value: +3.01154620411504004e+00 error +6.07782956407731945e-07 
+Processing point: +56
+Missed point: value Id +0 real value: +3.01160542231655759e+00 interp. value: +3.01160602485720963e+00 error +6.02540652039351698e-07 
+Processing point: +57
+Missed point: value Id +0 real value: +3.01162431473270731e+00 interp. value: +3.01162405245404763e+00 error +2.62278659679537895e-07 
+Processing point: +58
+Missed point: value Id +0 real value: +3.01164425672753167e+00 interp. value: +3.01164398345743667e+00 error +2.73270094997002388e-07 
+Processing point: +59
+Processing point: +60
+Missed point: value Id +0 real value: +3.01072902412294985e+00 interp. value: +3.01072869319611813e+00 error +3.30926831715316894e-07 
+Processing point: +61
+Missed point: value Id +0 real value: +3.01177335490455400e+00 interp. value: +3.01177324106785749e+00 error +1.13836696513658353e-07 
+Processing point: +62
+Missed point: value Id +0 real value: +3.01228240056191954e+00 interp. value: +3.01228206629886541e+00 error +3.34263054124761538e-07 
+Processing point: +63
+Missed point: value Id +0 real value: +3.01249441545426500e+00 interp. value: +3.01249480444682094e+00 error +3.88992555944156493e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.01254899354536398e+00 interp. value: +3.01254871449567130e+00 error +2.79049692686328399e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.01251855576378968e+00 interp. value: +3.01251903777640617e+00 error +4.82012616487281775e-07 
+Processing point: +66
+Processing point: +67
+Missed point: value Id +0 real value: +3.01241254831761651e+00 interp. value: +3.01241240523712417e+00 error +1.43080492343017340e-07 
+Processing point: +68
+Missed point: value Id +0 real value: +3.01241884578966701e+00 interp. value: +3.01241897299486272e+00 error +1.27205195710189400e-07 
+Processing point: +69
+Missed point: value Id +0 real value: +3.01253954733728913e+00 interp. value: +3.01253926130939398e+00 error +2.86027895146645506e-07 
+Processing point: +70
+Missed point: value Id +0 real value: +3.01469538193569742e+00 interp. value: +3.01469596301996434e+00 error +5.81084266926268356e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +3.01487485988911885e+00 interp. value: +3.01487547308425485e+00 error +6.13195136001110086e-07 
+Processing point: +72
+Missed point: value Id +0 real value: +3.01475835665619618e+00 interp. value: +3.01475894246792953e+00 error +5.85811733344598906e-07 
+Processing point: +73
+Missed point: value Id +0 real value: +3.01453584597710078e+00 interp. value: +3.01453596156611692e+00 error +1.15589016136397049e-07 
+Processing point: +74
+Processing point: +75
+Missed point: value Id +0 real value: +3.01403204821311022e+00 interp. value: +3.01403188575327219e+00 error +1.62459838026762782e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.01383682657956387e+00 interp. value: +3.01383748438245558e+00 error +6.57802891712577775e-07 
+Processing point: +77
+Processing point: +78
+Processing point: +79
+Missed point: value Id +0 real value: +3.01408767588288384e+00 interp. value: +3.01408736725923188e+00 error +3.08623651967820933e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +3.01945732038407977e+00 interp. value: +3.01945778670931464e+00 error +4.66325234871334260e-07 
+Processing point: +81
+Missed point: value Id +0 real value: +3.01842453496789931e+00 interp. value: +3.01842424082519933e+00 error +2.94142699974742072e-07 
+Processing point: +82
+Missed point: value Id +0 real value: +3.01756912834779101e+00 interp. value: +3.01756878775794402e+00 error +3.40589846992145340e-07 
+Processing point: +83
+Missed point: value Id +0 real value: +3.01686171232085520e+00 interp. value: +3.01686190462755821e+00 error +1.92306703006295265e-07 
+Processing point: +84
+Processing point: +85
+Missed point: value Id +0 real value: +3.01586566215829954e+00 interp. value: +3.01586607100354120e+00 error +4.08845241661737191e-07 
+Processing point: +86
+Missed point: value Id +0 real value: +3.01560956496160459e+00 interp. value: +3.01560989010799840e+00 error +3.25146393809205847e-07 
+Processing point: +87
+Missed point: value Id +0 real value: +3.01557597844400549e+00 interp. value: +3.01557587072168642e+00 error +1.07722319064862404e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.01580583617382558e+00 interp. value: +3.01580609138420419e+00 error +2.55210378607984012e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.01638940191711447e+00 interp. value: +3.01638981497235203e+00 error +4.13055237569182054e-07 
+Processing point: +90
+Missed point: value Id +0 real value: +3.02298495431068570e+00 interp. value: +3.02298520881969468e+00 error +2.54509008978942575e-07 
+Processing point: +91
+Missed point: value Id +0 real value: +3.02104953123402353e+00 interp. value: +3.02104941841146912e+00 error +1.12822554410030307e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +3.01965883948967573e+00 interp. value: +3.01965873532713447e+00 error +1.04162541259000818e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.01863550028157057e+00 interp. value: +3.01863534455951577e+00 error +1.55722054806517463e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +3.01791024141715969e+00 interp. value: +3.01791055266713304e+00 error +3.11249973350413711e-07 
+Processing point: +95
+Processing point: +96
+Missed point: value Id +0 real value: +3.01735921261279572e+00 interp. value: +3.01735903759586233e+00 error +1.75016933390281793e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +3.01762475601756552e+00 interp. value: +3.01762524051093894e+00 error +4.84493373420491480e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.01833532078052613e+00 interp. value: +3.01833586161258260e+00 error +5.40832056472595468e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.01935970956730637e+00 interp. value: +3.01935940226465460e+00 error +3.07302651769703061e-07 
+Processing point: +0
+Adding point :+0
+Processing point: +1
+Adding point :+1
+Processing point: +2
+Adding point :+2
+Processing point: +3
+Adding point :+3
+Processing point: +4
+Adding point :+4
+Processing point: +5
+Adding point :+5
+Processing point: +6
+Adding point :+6
+Processing point: +7
+Adding point :+7
+Processing point: +8
+Adding point :+8
+Processing point: +9
+Adding point :+9
+Processing point: +10
+Adding point :+10
+Processing point: +11
+Adding point :+11
+Processing point: +12
+Adding point :+12
+Processing point: +13
+Adding point :+13
+Processing point: +14
+Adding point :+14
+Processing point: +15
+Adding point :+15
+Processing point: +16
+Adding point :+16
+Processing point: +17
+Adding point :+17
+Processing point: +18
+Adding point :+18
+Processing point: +19
+Adding point :+19
+Processing point: +20
+Adding point :+20
+Processing point: +21
+Adding point :+21
+Processing point: +22
+Adding point :+22
+Processing point: +23
+Adding point :+23
+Processing point: +24
+Adding point :+24
+Processing point: +25
+Adding point :+25
+Processing point: +26
+Adding point :+26
+Processing point: +27
+Adding point :+27
+Processing point: +28
+Adding point :+28
+Processing point: +29
+Adding point :+29
+Processing point: +30
+Adding point :+30
+Processing point: +31
+Adding point :+31
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Adding point :+33
+Processing point: +34
+Adding point :+34
+Processing point: +35
+Adding point :+35
+Processing point: +36
+Adding point :+36
+Processing point: +37
+Adding point :+37
+Processing point: +38
+Adding point :+38
+Processing point: +39
+Adding point :+39
+Processing point: +40
+Adding point :+40
+Processing point: +41
+Adding point :+41
+Processing point: +42
+Adding point :+42
+Processing point: +43
+Adding point :+43
+Processing point: +44
+Adding point :+44
+Processing point: +45
+Adding point :+45
+Processing point: +46
+Adding point :+46
+Processing point: +47
+Adding point :+47
+Processing point: +48
+Adding point :+48
+Processing point: +49
+Adding point :+49
+Processing point: +50
+Adding point :+50
+Processing point: +51
+Adding point :+51
+Processing point: +52
+Adding point :+52
+Processing point: +53
+Adding point :+53
+Processing point: +54
+Adding point :+54
+Processing point: +55
+Adding point :+55
+Processing point: +56
+Adding point :+56
+Processing point: +57
+Adding point :+57
+Processing point: +58
+Adding point :+58
+Processing point: +59
+Adding point :+59
+Processing point: +60
+Adding point :+60
+Processing point: +61
+Adding point :+61
+Processing point: +62
+Adding point :+62
+Processing point: +63
+Adding point :+63
+Processing point: +64
+Adding point :+64
+Processing point: +65
+Adding point :+65
+Processing point: +66
+Adding point :+66
+Processing point: +67
+Adding point :+67
+Processing point: +68
+Adding point :+68
+Processing point: +69
+Adding point :+69
+Processing point: +70
+Adding point :+70
+Processing point: +71
+Adding point :+71
+Processing point: +72
+Adding point :+72
+Processing point: +73
+Adding point :+73
+Processing point: +74
+Adding point :+74
+Processing point: +75
+Adding point :+75
+Processing point: +76
+Adding point :+76
+Processing point: +77
+Adding point :+77
+Processing point: +78
+Adding point :+78
+Processing point: +79
+Adding point :+79
+Processing point: +80
+Adding point :+80
+Processing point: +81
+Adding point :+81
+Processing point: +82
+Adding point :+82
+Processing point: +83
+Adding point :+83
+Processing point: +84
+Adding point :+84
+Processing point: +85
+Adding point :+85
+Processing point: +86
+Adding point :+86
+Processing point: +87
+Adding point :+87
+Processing point: +88
+Adding point :+88
+Processing point: +89
+Missed point: value Id +0 real value: +3.74456924378045386e+00 interp. value: +3.74456884450498562e+00 error +3.99275468243587284e-07 
+Missed point: value Id +2 real value: -3.53209463597494333e-01 interp. value: -3.53209595420529543e-01 error +1.31823035209865935e-07 
+Processing point: +90
+Adding point :+90
+Processing point: +91
+Missed point: value Id +0 real value: +2.92791621708838790e+00 interp. value: +2.92791605168884539e+00 error +1.65399542506605712e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +3.12384421708284599e+00 interp. value: +3.12384364646066226e+00 error +5.70622183726499088e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.35725582029684899e+00 interp. value: +3.35725527393172296e+00 error +5.46365126030678994e-07 
+Missed point: value Id +1 real value: -4.31978873744564895e-01 interp. value: -4.31978765110717478e-01 error +1.08633847417660689e-07 
+Processing point: +94
+Adding point :+94
+Processing point: +95
+Adding point :+95
+Processing point: +96
+Missed point: value Id +0 real value: +3.82608477157274107e+00 interp. value: +3.82608531999573165e+00 error +5.48422990576113989e-07 
+Processing point: +97
+Adding point :+97
+Processing point: +98
+Missed point: value Id +0 real value: +3.83037020130268235e+00 interp. value: +3.83037001871578209e+00 error +1.82586900265846452e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.75709281653031013e+00 interp. value: +3.75709224163469546e+00 error +5.74895614668946564e-07 
+Processing point: +0
+Adding point :+0
+Processing point: +1
+Adding point :+1
+Processing point: +2
+Adding point :+2
+Processing point: +3
+Adding point :+3
+Processing point: +4
+Adding point :+4
+Processing point: +5
+Missed point: value Id +0 real value: +3.67055085646354584e+00 interp. value: +3.67055003026287174e+00 error +8.26200674097776755e-07 
+Processing point: +6
+Missed point: value Id +0 real value: +3.78651145721131233e+00 interp. value: +3.78651135513753445e+00 error +1.02073777874522875e-07 
+Processing point: +7
+Adding point :+7
+Processing point: +8
+Missed point: value Id +0 real value: +3.82131128775893414e+00 interp. value: +3.82131161367300987e+00 error +3.25914075727240515e-07 
+Missed point: value Id +2 real value: -1.82671716371598958e-01 interp. value: -1.82671596707307593e-01 error +1.19664291364784958e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +3.75491599035840240e+00 interp. value: +3.75491618145014128e+00 error +1.91091738876991712e-07 
+Processing point: +10
+Missed point: value Id +0 real value: +2.75375437965565562e+00 interp. value: +2.75375398878698663e+00 error +3.90868668986854573e-07 
+Processing point: +11
+Missed point: value Id +0 real value: +2.82796693902743490e+00 interp. value: +2.82796641034216156e+00 error +5.28685273337714534e-07 
+Processing point: +12
+Adding point :+12
+Processing point: +13
+Adding point :+13
+Processing point: +14
+Adding point :+14
+Processing point: +15
+Adding point :+15
+Processing point: +16
+Missed point: value Id +0 real value: +3.72165169341227520e+00 interp. value: +3.72165131140516836e+00 error +3.82007106836113053e-07 
+Processing point: +17
+Adding point :+17
+Processing point: +18
+Adding point :+18
+Processing point: +19
+Adding point :+19
+Processing point: +20
+Adding point :+20
+Processing point: +21
+Adding point :+21
+Processing point: +22
+Adding point :+22
+Processing point: +23
+Adding point :+23
+Processing point: +24
+Missed point: value Id +0 real value: +3.29467574137986796e+00 interp. value: +3.29467487324912955e+00 error +8.68130738407302260e-07 
+Processing point: +25
+Processing point: +26
+Adding point :+26
+Processing point: +27
+Adding point :+27
+Processing point: +28
+Adding point :+28
+Processing point: +29
+Adding point :+29
+Processing point: +30
+Adding point :+30
+Processing point: +31
+Missed point: value Id +0 real value: +2.82964206659270223e+00 interp. value: +2.82964195129491713e+00 error +1.15297785097112637e-07 
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Adding point :+33
+Processing point: +34
+Adding point :+34
+Processing point: +35
+Processing point: +36
+Adding point :+36
+Processing point: +37
+Adding point :+37
+Processing point: +38
+Adding point :+38
+Processing point: +39
+Adding point :+39
+Processing point: +40
+Missed point: value Id +0 real value: +2.82031131217213415e+00 interp. value: +2.82031053093281558e+00 error +7.81239318570214891e-07 
+Processing point: +41
+Adding point :+41
+Processing point: +42
+Adding point :+42
+Processing point: +43
+Adding point :+43
+Processing point: +44
+Adding point :+44
+Processing point: +45
+Adding point :+45
+Processing point: +46
+Adding point :+46
+Processing point: +47
+Adding point :+47
+Processing point: +48
+Adding point :+48
+Processing point: +49
+Adding point :+49
+Processing point: +50
+Adding point :+50
+Processing point: +51
+Processing point: +52
+Missed point: value Id +0 real value: +2.92077593336250185e+00 interp. value: +2.92077616532159690e+00 error +2.31959095042810759e-07 
+Processing point: +53
+Adding point :+53
+Processing point: +54
+Adding point :+54
+Processing point: +55
+Adding point :+55
+Processing point: +56
+Adding point :+56
+Processing point: +57
+Adding point :+57
+Processing point: +58
+Adding point :+58
+Processing point: +59
+Missed point: value Id +0 real value: +3.48227743374571386e+00 interp. value: +3.48227790386831160e+00 error +4.70122597739930370e-07 
+Processing point: +60
+Missed point: value Id +0 real value: +2.87668313322661096e+00 interp. value: +2.87668324829670041e+00 error +1.15070089456992264e-07 
+Processing point: +61
+Adding point :+61
+Processing point: +62
+Adding point :+62
+Processing point: +63
+Missed point: value Id +0 real value: +2.99598979079021177e+00 interp. value: +2.99598961007214148e+00 error +1.80718070286189914e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.09189189348044335e+00 interp. value: +3.09189112074409245e+00 error +7.72736350906910729e-07 
+Missed point: value Id +1 real value: -3.16475049636149974e-01 interp. value: -3.16475165621322996e-01 error +1.15985173021471155e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.20983724750259602e+00 interp. value: +3.20983754032349067e+00 error +2.92820894642886742e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.32517754725344883e+00 interp. value: +3.32517847051728266e+00 error +9.23263833829679470e-07 
+Processing point: +67
+Adding point :+67
+Processing point: +68
+Adding point :+68
+Processing point: +69
+Adding point :+69
+Processing point: +70
+Processing point: +71
+Processing point: +72
+Missed point: value Id +0 real value: +2.94102440516020769e+00 interp. value: +2.94102460262484611e+00 error +1.97464638418409777e-07 
+Processing point: +73
+Missed point: value Id +1 real value: -3.07393360235154345e-01 interp. value: -3.07393466788392855e-01 error +1.06553238510276316e-07 
+Processing point: +74
+Missed point: value Id +0 real value: +3.07078066801190452e+00 interp. value: +3.07077996165385692e+00 error +7.06358047608546258e-07 
+Missed point: value Id +1 real value: -3.08521762268624877e-01 interp. value: -3.08521896554386110e-01 error +1.34285761232977308e-07 
+Processing point: +75
+Missed point: value Id +0 real value: +3.16996795195482273e+00 interp. value: +3.16996816405160819e+00 error +2.12096785467963400e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.27109590686777763e+00 interp. value: +3.27109610031042131e+00 error +1.93442643681152049e-07 
+Processing point: +77
+Adding point :+77
+Processing point: +78
+Missed point: value Id +0 real value: +3.38001383470643058e+00 interp. value: +3.38001446895294277e+00 error +6.34246512198899381e-07 
+Processing point: +79
+Adding point :+79
+Processing point: +80
+Missed point: value Id +0 real value: +2.91972635468752273e+00 interp. value: +2.91972651516812531e+00 error +1.60480602584556209e-07 
+Processing point: +81
+Processing point: +82
+Missed point: value Id +0 real value: +2.95128613586548250e+00 interp. value: +2.95128561888534913e+00 error +5.16980133369315809e-07 
+Processing point: +83
+Missed point: value Id +0 real value: +2.99242332245263132e+00 interp. value: +2.99242297749369035e+00 error +3.44958940967643457e-07 
+Processing point: +84
+Missed point: value Id +0 real value: +3.05569612329509877e+00 interp. value: +3.05569527839744781e+00 error +8.44897650953413404e-07 
+Processing point: +85
+Missed point: value Id +0 real value: +3.13851207906568508e+00 interp. value: +3.13851139034667037e+00 error +6.88719014707572796e-07 
+Processing point: +86
+Missed point: value Id +0 real value: +3.22587166092025868e+00 interp. value: +3.22587207065540627e+00 error +4.09735147588463633e-07 
+Processing point: +87
+Missed point: value Id +0 real value: +3.29468098927324293e+00 interp. value: +3.29468181349880807e+00 error +8.24225565132508109e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.32504425076172661e+00 interp. value: +3.32504491989357920e+00 error +6.69131852593096710e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.30877473172086889e+00 interp. value: +3.30877485785195091e+00 error +1.26131082023306362e-07 
+Processing point: +90
+Adding point :+90
+Processing point: +91
+Adding point :+91
+Processing point: +92
+Missed point: value Id +0 real value: +2.96073654225499849e+00 interp. value: +2.96073633947130155e+00 error +2.02783696945374459e-07 
+Processing point: +93
+Processing point: +94
+Missed point: value Id +0 real value: +3.04491904946040881e+00 interp. value: +3.04491869985927677e+00 error +3.49601132043630969e-07 
+Processing point: +95
+Adding point :+95
+Processing point: +96
+Adding point :+96
+Processing point: +97
+Adding point :+97
+Processing point: +98
+Missed point: value Id +0 real value: +3.27692421724993910e+00 interp. value: +3.27692488842737717e+00 error +6.71177438071879351e-07 
+Processing point: +99
+Adding point :+99
+Processing point: +0
+Adding point :+0
+Processing point: +1
+Missed point: value Id +0 real value: +2.95524094831280548e+00 interp. value: +2.95524076302602134e+00 error +1.85286784137872473e-07 
+Processing point: +2
+Adding point :+2
+Processing point: +3
+Missed point: value Id +0 real value: +2.99539467968149831e+00 interp. value: +2.99539478615498522e+00 error +1.06473486916058846e-07 
+Processing point: +4
+Adding point :+4
+Processing point: +5
+Processing point: +6
+Missed point: value Id +0 real value: +3.15756403117391393e+00 interp. value: +3.15756421881322735e+00 error +1.87639313420362441e-07 
+Processing point: +7
+Missed point: value Id +0 real value: +3.21052787027073272e+00 interp. value: +3.21052769569237206e+00 error +1.74578360656596487e-07 
+Processing point: +8
+Missed point: value Id +0 real value: +3.23531891857374942e+00 interp. value: +3.23531863739537995e+00 error +2.81178369476720036e-07 
+Processing point: +9
+Processing point: +10
+Missed point: value Id +0 real value: +2.96179346798070275e+00 interp. value: +2.96179392411067433e+00 error +4.56129971571073156e-07 
+Processing point: +11
+Processing point: +12
+Missed point: value Id +0 real value: +2.97651066016126631e+00 interp. value: +2.97651142144090342e+00 error +7.61279637107037388e-07 
+Processing point: +13
+Missed point: value Id +0 real value: +2.99754946470123107e+00 interp. value: +2.99755020794558869e+00 error +7.43244357614969431e-07 
+Processing point: +14
+Missed point: value Id +0 real value: +3.03156421039996893e+00 interp. value: +3.03156402091043375e+00 error +1.89489535173947843e-07 
+Processing point: +15
+Processing point: +16
+Missed point: value Id +0 real value: +3.13223140027460811e+00 interp. value: +3.13223116612208363e+00 error +2.34152524480890634e-07 
+Processing point: +17
+Missed point: value Id +0 real value: +3.17793740283394222e+00 interp. value: +3.17793724124492805e+00 error +1.61589014169294387e-07 
+Processing point: +18
+Missed point: value Id +0 real value: +3.19971930907579294e+00 interp. value: +3.19971886664915273e+00 error +4.42426640212545408e-07 
+Processing point: +19
+Adding point :+19
+Processing point: +20
+Missed point: value Id +0 real value: +2.97136247676049159e+00 interp. value: +2.97136302830273280e+00 error +5.51542241211677720e-07 
+Processing point: +21
+Missed point: value Id +0 real value: +2.97414490982786228e+00 interp. value: +2.97414577463242624e+00 error +8.64804563960319683e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +2.98281128094716852e+00 interp. value: +2.98281159164377607e+00 error +3.10696607552785053e-07 
+Processing point: +23
+Processing point: +24
+Missed point: value Id +0 real value: +3.02749499387707299e+00 interp. value: +3.02749533152965844e+00 error +3.37652585447045794e-07 
+Processing point: +25
+Processing point: +26
+Adding point :+26
+Processing point: +27
+Missed point: value Id +0 real value: +3.15062736571097446e+00 interp. value: +3.15062689677236385e+00 error +4.68938610609370699e-07 
+Processing point: +28
+Missed point: value Id +0 real value: +3.16949564155108199e+00 interp. value: +3.16949550978661776e+00 error +1.31764464228467659e-07 
+Processing point: +29
+Missed point: value Id +0 real value: +3.16060780933135499e+00 interp. value: +3.16060767020427935e+00 error +1.39127075637901498e-07 
+Processing point: +30
+Adding point :+30
+Processing point: +31
+Adding point :+31
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Adding point :+33
+Processing point: +34
+Missed point: value Id +0 real value: +3.02456247105918008e+00 interp. value: +3.02456217835327790e+00 error +2.92705902182888167e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +3.05668482640692929e+00 interp. value: +3.05668450244868373e+00 error +3.23958245562749880e-07 
+Processing point: +36
+Missed point: value Id +0 real value: +3.09443397303124401e+00 interp. value: +3.09443380233831400e+00 error +1.70692930012705801e-07 
+Processing point: +37
+Missed point: value Id +0 real value: +3.12778853374341947e+00 interp. value: +3.12778805915818525e+00 error +4.74585234222502095e-07 
+Processing point: +38
+Missed point: value Id +0 real value: +3.14404860657620233e+00 interp. value: +3.14404837207397891e+00 error +2.34502223417365485e-07 
+Processing point: +39
+Missed point: value Id +0 real value: +3.13631006300557846e+00 interp. value: +3.13631046161779636e+00 error +3.98612217900051746e-07 
+Processing point: +40
+Missed point: value Id +0 real value: +2.98600200011910610e+00 interp. value: +2.98600162113788015e+00 error +3.78981225956920298e-07 
+Processing point: +41
+Processing point: +42
+Missed point: value Id +0 real value: +2.99348024817833558e+00 interp. value: +2.99348009449425323e+00 error +1.53684082349059281e-07 
+Processing point: +43
+Missed point: value Id +0 real value: +3.00458479055961947e+00 interp. value: +3.00458427916393234e+00 error +5.11395687130544729e-07 
+Processing point: +44
+Missed point: value Id +0 real value: +3.02274040247941533e+00 interp. value: +3.02274083337709110e+00 error +4.30897675762764720e-07 
+Processing point: +45
+Missed point: value Id +0 real value: +3.04838475824519106e+00 interp. value: +3.04838430635443158e+00 error +4.51890759478601467e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +3.07857378967362783e+00 interp. value: +3.07857353089745756e+00 error +2.58776170269925387e-07 
+Processing point: +47
+Missed point: value Id +0 real value: +3.10542516091563003e+00 interp. value: +3.10542474004106772e+00 error +4.20874562312434364e-07 
+Processing point: +48
+Missed point: value Id +0 real value: +3.11864670348434769e+00 interp. value: +3.11864703919799968e+00 error +3.35713651988811534e-07 
+Processing point: +49
+Missed point: value Id +0 real value: +3.11261372526056457e+00 interp. value: +3.11261338061237991e+00 error +3.44648184658069567e-07 
+Processing point: +50
+Missed point: value Id +0 real value: +2.99156896541119810e+00 interp. value: +2.99156850411315389e+00 error +4.61298044207580915e-07 
+Processing point: +51
+Missed point: value Id +0 real value: +2.99329867106756442e+00 interp. value: +2.99329892929275898e+00 error +2.58225194560424143e-07 
+Processing point: +52
+Missed point: value Id +0 real value: +2.99808474982547057e+00 interp. value: +2.99808435877203072e+00 error +3.91053439852129259e-07 
+Processing point: +53
+Missed point: value Id +0 real value: +3.00707649033402058e+00 interp. value: +3.00707607319222259e+00 error +4.17141797992570673e-07 
+Processing point: +54
+Missed point: value Id +0 real value: +3.02137175188724250e+00 interp. value: +3.02137211297493069e+00 error +3.61087688194317025e-07 
+Processing point: +55
+Missed point: value Id +0 real value: +3.04123922662593049e+00 interp. value: +3.04123954635954297e+00 error +3.19733612474948359e-07 
+Processing point: +56
+Missed point: value Id +0 real value: +3.06442127082020344e+00 interp. value: +3.06442093768508395e+00 error +3.33135119490179932e-07 
+Processing point: +57
+Missed point: value Id +0 real value: +3.08511686313345068e+00 interp. value: +3.08511638488627860e+00 error +4.78247172086554428e-07 
+Processing point: +58
+Missed point: value Id +0 real value: +3.09558011294432145e+00 interp. value: +3.09558044808347255e+00 error +3.35139151097507693e-07 
+Processing point: +59
+Processing point: +60
+Missed point: value Id +0 real value: +2.99607165792685981e+00 interp. value: +2.99607124507175504e+00 error +4.12855104769960235e-07 
+Processing point: +61
+Missed point: value Id +0 real value: +2.99765232341137944e+00 interp. value: +2.99765182515907380e+00 error +4.98252305636270876e-07 
+Processing point: +62
+Processing point: +63
+Missed point: value Id +0 real value: +3.00877260947278735e+00 interp. value: +3.00877219958602993e+00 error +4.09886757424260395e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.02001674581784396e+00 interp. value: +3.02001620222348022e+00 error +5.43594363744404063e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.03550327916716700e+00 interp. value: +3.03550359457738006e+00 error +3.15410213058697764e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.05360956088923929e+00 interp. value: +3.05360927235042823e+00 error +2.88538811066274548e-07 
+Processing point: +67
+Missed point: value Id +0 real value: +3.06990112108227198e+00 interp. value: +3.06990082727569114e+00 error +2.93806580842215226e-07 
+Processing point: +68
+Missed point: value Id +0 real value: +3.07837017141068170e+00 interp. value: +3.07836994629385385e+00 error +2.25116827845539547e-07 
+Processing point: +69
+Processing point: +70
+Missed point: value Id +0 real value: +2.99976512528411288e+00 interp. value: +2.99976497120548613e+00 error +1.54078626746212421e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +3.00110018935868705e+00 interp. value: +3.00110033488580275e+00 error +1.45527115691379549e-07 
+Processing point: +72
+Processing point: +73
+Processing point: +74
+Missed point: value Id +0 real value: +3.01880763118426687e+00 interp. value: +3.01880716283053019e+00 error +4.68353736682303179e-07 
+Processing point: +75
+Missed point: value Id +0 real value: +3.03095860350450552e+00 interp. value: +3.03095881019915092e+00 error +2.06694645399352339e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.04525386505772699e+00 interp. value: +3.04525408477028092e+00 error +2.19712553928275156e-07 
+Processing point: +77
+Missed point: value Id +0 real value: +3.05833581366267193e+00 interp. value: +3.05833610862561001e+00 error +2.94962938074405656e-07 
+Processing point: +78
+Processing point: +79
+Missed point: value Id +0 real value: +3.06252993004789031e+00 interp. value: +3.06252974657121335e+00 error +1.83476676962612828e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +3.00279106060407885e+00 interp. value: +3.00279055822643048e+00 error +5.02377648370355701e-07 
+Processing point: +81
+Missed point: value Id +0 real value: +3.00388787031943316e+00 interp. value: +3.00388730713936569e+00 error +5.63180067469915002e-07 
+Processing point: +82
+Missed point: value Id +0 real value: +3.00643834649963315e+00 interp. value: +3.00643780611773392e+00 error +5.40381899227782014e-07 
+Processing point: +83
+Missed point: value Id +0 real value: +3.01090850207637084e+00 interp. value: +3.01090829095467027e+00 error +2.11121700566252457e-07 
+Processing point: +84
+Missed point: value Id +0 real value: +3.01780948186436149e+00 interp. value: +3.01780977915948112e+00 error +2.97295119633389504e-07 
+Processing point: +85
+Missed point: value Id +0 real value: +3.02737009401475055e+00 interp. value: +3.02736983271485460e+00 error +2.61299895942812554e-07 
+Processing point: +86
+Missed point: value Id +0 real value: +3.03878426210515329e+00 interp. value: +3.03878404904432742e+00 error +2.13060825871025372e-07 
+Processing point: +87
+Missed point: value Id +0 real value: +3.04942279155474605e+00 interp. value: +3.04942302833074841e+00 error +2.36776002360272741e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.05518392890170887e+00 interp. value: +3.05518428723277280e+00 error +3.58331063932126881e-07 
+Processing point: +89
+Processing point: +90
+Missed point: value Id +0 real value: +3.00527436374908063e+00 interp. value: +3.00527394176996099e+00 error +4.21979119646920253e-07 
+Processing point: +91
+Missed point: value Id +0 real value: +3.00614341489196413e+00 interp. value: +3.00614373227667953e+00 error +3.17384715398105755e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +3.00814181268912506e+00 interp. value: +3.00814125720962489e+00 error +5.55479500174982377e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.01162011641800742e+00 interp. value: +3.01162043767699217e+00 error +3.21258984747885279e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +3.01701809954342703e+00 interp. value: +3.01701841852115971e+00 error +3.18977732671754666e-07 
+Processing point: +95
+Missed point: value Id +0 real value: +3.02456981810990522e+00 interp. value: +3.02456996871901085e+00 error +1.50609105631360762e-07 
+Processing point: +96
+Missed point: value Id +0 real value: +3.03374313572922594e+00 interp. value: +3.03374261941819334e+00 error +5.16311032594529706e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +3.04248822524915585e+00 interp. value: +3.04248835438706333e+00 error +1.29137907478593661e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.04732888209816144e+00 interp. value: +3.04732856845421063e+00 error +3.13643950811126615e-07 
+Processing point: +99
+Processing point: +0
+Missed point: value Id +0 real value: +3.00730949679986592e+00 interp. value: +3.00730995014167224e+00 error +4.53341806316842622e-07 
+Processing point: +1
+Missed point: value Id +0 real value: +3.00798542546655323e+00 interp. value: +3.00798600552503270e+00 error +5.80058479471290411e-07 
+Processing point: +2
+Missed point: value Id +0 real value: +3.00952200864672337e+00 interp. value: +3.00952228566248703e+00 error +2.77015763661125902e-07 
+Processing point: +3
+Missed point: value Id +0 real value: +3.01221417794804580e+00 interp. value: +3.01221388729365458e+00 error +2.90654391221778496e-07 
+Processing point: +4
+Processing point: +5
+Missed point: value Id +0 real value: +3.02239614067402229e+00 interp. value: +3.02239560353612369e+00 error +5.37137898604100883e-07 
+Processing point: +6
+Missed point: value Id +0 real value: +3.02980196780467814e+00 interp. value: +3.02980152965390026e+00 error +4.38150777881674003e-07 
+Processing point: +7
+Processing point: +8
+Missed point: value Id +0 real value: +3.04115421075325676e+00 interp. value: +3.04115388906962147e+00 error +3.21683635284841785e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +3.03952841338571345e+00 interp. value: +3.03952867255656889e+00 error +2.59170855443358050e-07 
+Processing point: +10
+Processing point: +11
+Missed point: value Id +0 real value: +3.00948947170779846e+00 interp. value: +3.00948976697773318e+00 error +2.95269934724728955e-07 
+Processing point: +12
+Missed point: value Id +0 real value: +3.01065975193040103e+00 interp. value: +3.01065960823544643e+00 error +1.43694954601869540e-07 
+Processing point: +13
+Missed point: value Id +0 real value: +3.01272322360541089e+00 interp. value: +3.01272279467363058e+00 error +4.28931780316332834e-07 
+Processing point: +14
+Missed point: value Id +0 real value: +3.01599161159929707e+00 interp. value: +3.01599191159365887e+00 error +2.99994361796507292e-07 
+Processing point: +15
+Missed point: value Id +0 real value: +3.02071261647935518e+00 interp. value: +3.02071217524485736e+00 error +4.41234497827736050e-07 
+Processing point: +16
+Missed point: value Id +0 real value: +3.02671305776421340e+00 interp. value: +3.02671284073621738e+00 error +2.17027996018970271e-07 
+Processing point: +17
+Processing point: +18
+Missed point: value Id +0 real value: +3.03625057918375241e+00 interp. value: +3.03625000198604456e+00 error +5.77197707851695441e-07 
+Processing point: +19
+Processing point: +20
+Processing point: +21
+Missed point: value Id +0 real value: +3.01072482580824996e+00 interp. value: +3.01072417103160062e+00 error +6.54776649344768202e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +3.01160332315920787e+00 interp. value: +3.01160319302333335e+00 error +1.30135874520931338e-07 
+Processing point: +23
+Missed point: value Id +0 real value: +3.01317244327830203e+00 interp. value: +3.01317228462424413e+00 error +1.58654057891283173e-07 
+Processing point: +24
+Missed point: value Id +0 real value: +3.01569563041295297e+00 interp. value: +3.01569519884709925e+00 error +4.31565853720172754e-07 
+Processing point: +25
+Missed point: value Id +0 real value: +3.01942373386648022e+00 interp. value: +3.01942347386175358e+00 error +2.60004726637674821e-07 
+Processing point: +26
+Missed point: value Id +0 real value: +3.02428118397428580e+00 interp. value: +3.02428141555389773e+00 error +2.31579611931209683e-07 
+Processing point: +27
+Missed point: value Id +0 real value: +3.02932126077153763e+00 interp. value: +3.02932081275617326e+00 error +4.48015364362674973e-07 
+Processing point: +28
+Missed point: value Id +0 real value: +3.03232620451800416e+00 interp. value: +3.03232655498063508e+00 error +3.50462630915870932e-07 
+Processing point: +29
+Processing point: +30
+Missed point: value Id +0 real value: +3.01145743172338554e+00 interp. value: +3.01145771119587380e+00 error +2.79472488262655361e-07 
+Processing point: +31
+Missed point: value Id +0 real value: +3.01173661965093009e+00 interp. value: +3.01173685618269760e+00 error +2.36531767505709922e-07 
+Processing point: +32
+Missed point: value Id +0 real value: +3.01238630885074210e+00 interp. value: +3.01238649110339729e+00 error +1.82252655189785173e-07 
+Processing point: +33
+Missed point: value Id +0 real value: +3.01356708486009417e+00 interp. value: +3.01356662678727449e+00 error +4.58072819675692244e-07 
+Processing point: +34
+Missed point: value Id +0 real value: +3.01550355751543186e+00 interp. value: +3.01550376921281238e+00 error +2.11697380514408451e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +3.01843503075464969e+00 interp. value: +3.01843482920692141e+00 error +2.01547728284623417e-07 
+Processing point: +36
+Processing point: +37
+Missed point: value Id +0 real value: +3.02657556295779084e+00 interp. value: +3.02657505618488987e+00 error +5.06772900976670826e-07 
+Processing point: +38
+Missed point: value Id +0 real value: +3.02917222059969049e+00 interp. value: +3.02917162343167456e+00 error +5.97168015925575446e-07 
+Processing point: +39
+Missed point: value Id +0 real value: +3.02808275793506176e+00 interp. value: +3.02808210932933441e+00 error +6.48605727349149674e-07 
+Processing point: +40
+Missed point: value Id +0 real value: +3.01256158848946409e+00 interp. value: +3.01256174351931350e+00 error +1.55029849402410491e-07 
+Processing point: +41
+Missed point: value Id +0 real value: +3.01276730590975994e+00 interp. value: +3.01276661463844198e+00 error +6.91271317965203025e-07 
+Processing point: +42
+Processing point: +43
+Missed point: value Id +0 real value: +3.01416324554748272e+00 interp. value: +3.01416276326330701e+00 error +4.82284175706837459e-07 
+Processing point: +44
+Processing point: +45
+Missed point: value Id +0 real value: +3.01795222456415857e+00 interp. value: +3.01795206179998088e+00 error +1.62764177691343548e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +3.02103063881787381e+00 interp. value: +3.02103009068767170e+00 error +5.48130202115970633e-07 
+Processing point: +47
+Processing point: +48
+Missed point: value Id +0 real value: +3.02622290452299758e+00 interp. value: +3.02622261431874806e+00 error +2.90204249520087387e-07 
+Processing point: +49
+Processing point: +50
+Missed point: value Id +0 real value: +3.01342014384559720e+00 interp. value: +3.01341996583205995e+00 error +1.78013537244225972e-07 
+Processing point: +51
+Missed point: value Id +0 real value: +3.01359437390564366e+00 interp. value: +3.01359471406031254e+00 error +3.40154668876380128e-07 
+Processing point: +52
+Missed point: value Id +0 real value: +3.01399951127418619e+00 interp. value: +3.01399968543325425e+00 error +1.74159068055956823e-07 
+Processing point: +53
+Missed point: value Id +0 real value: +3.01473631550402166e+00 interp. value: +3.01473570280608394e+00 error +6.12697937718564845e-07 
+Processing point: +54
+Missed point: value Id +0 real value: +3.01593703350819808e+00 interp. value: +3.01593662749364677e+00 error +4.06014551312949834e-07 
+Processing point: +55
+Missed point: value Id +0 real value: +3.01773286262108842e+00 interp. value: +3.01773266468603518e+00 error +1.97935053236619751e-07 
+Processing point: +56
+Processing point: +57
+Missed point: value Id +0 real value: +3.02244232213572106e+00 interp. value: +3.02244167925149609e+00 error +6.42884224966167039e-07 
+Processing point: +58
+Missed point: value Id +0 real value: +3.02367242834279759e+00 interp. value: +3.02367183461081668e+00 error +5.93731980913503321e-07 
+Processing point: +59
+Missed point: value Id +0 real value: +3.02283066624546404e+00 interp. value: +3.02283077281998391e+00 error +1.06574519875834994e-07 
+Processing point: +60
+Missed point: value Id +0 real value: +3.01394073486838732e+00 interp. value: +3.01394052229651566e+00 error +2.12571871660571787e-07 
+Processing point: +61
+Missed point: value Id +0 real value: +3.01408662630420920e+00 interp. value: +3.01408608411613432e+00 error +5.42188074881266857e-07 
+Processing point: +62
+Missed point: value Id +0 real value: +3.01442249148020291e+00 interp. value: +3.01442221461211313e+00 error +2.76868089787996041e-07 
+Processing point: +63
+Missed point: value Id +0 real value: +3.01502285048229091e+00 interp. value: +3.01502219322112541e+00 error +6.57261165493139288e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.01599266117797171e+00 interp. value: +3.01599290837321954e+00 error +2.47195247826681452e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.01742113775461895e+00 interp. value: +3.01742086935393239e+00 error +2.68400686564973512e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.01925160296378348e+00 interp. value: +3.01925175308310978e+00 error +1.50119326303155276e-07 
+Processing point: +67
+Processing point: +68
+Missed point: value Id +0 real value: +3.02189444206738234e+00 interp. value: +3.02189418005847577e+00 error +2.62008906570798672e-07 
+Processing point: +69
+Missed point: value Id +0 real value: +3.02111460511187202e+00 interp. value: +3.02111413538866014e+00 error +4.69723211882211444e-07 
+Processing point: +70
+Missed point: value Id +0 real value: +3.01422097237460695e+00 interp. value: +3.01422110823210421e+00 error +1.35857497252089843e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +3.01434482265825432e+00 interp. value: +3.01434514157561306e+00 error +3.18917358743675550e-07 
+Processing point: +72
+Missed point: value Id +0 real value: +3.01462715932182368e+00 interp. value: +3.01462745997472936e+00 error +3.00652905682596838e-07 
+Processing point: +73
+Missed point: value Id +0 real value: +3.01513095708581380e+00 interp. value: +3.01513112778641235e+00 error +1.70700598545181492e-07 
+Processing point: +74
+Missed point: value Id +0 real value: +3.01593283519349820e+00 interp. value: +3.01593226707972706e+00 error +5.68113771137745971e-07 
+Processing point: +75
+Missed point: value Id +0 real value: +3.01709996668007552e+00 interp. value: +3.01709967781666677e+00 error +2.88863408748341044e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.01857042640372164e+00 interp. value: +3.01857012591046647e+00 error +3.00493255167566531e-07 
+Processing point: +77
+Missed point: value Id +0 real value: +3.01997686182819480e+00 interp. value: +3.01997658518889223e+00 error +2.76639302576597856e-07 
+Processing point: +78
+Processing point: +79
+Missed point: value Id +0 real value: +3.01989499469154632e+00 interp. value: +3.01989481649573221e+00 error +1.78195814104498140e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +3.01431753361270438e+00 interp. value: +3.01431689755329923e+00 error +6.36059405145772416e-07 
+Processing point: +81
+Processing point: +82
+Missed point: value Id +0 real value: +3.01467753909822278e+00 interp. value: +3.01467731912383430e+00 error +2.19974388482313543e-07 
+Processing point: +83
+Processing point: +84
+Missed point: value Id +0 real value: +3.01580688575250111e+00 interp. value: +3.01580652918037195e+00 error +3.56572129156518258e-07 
+Processing point: +85
+Processing point: +86
+Missed point: value Id +0 real value: +3.01802569507140728e+00 interp. value: +3.01802539814199289e+00 error +2.96929414389524027e-07 
+Processing point: +87
+Missed point: value Id +0 real value: +3.01918547950725991e+00 interp. value: +3.01918507731165731e+00 error +4.02195602600130542e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.01968402937787506e+00 interp. value: +3.01968417956441870e+00 error +1.50186543645958182e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.01905428217288740e+00 interp. value: +3.01905376895776323e+00 error +5.13215124176014115e-07 
+Processing point: +90
+Missed point: value Id +0 real value: +3.01426295552160584e+00 interp. value: +3.01426225575383055e+00 error +6.99767775280690785e-07 
+Processing point: +91
+Processing point: +92
+Missed point: value Id +0 real value: +3.01459987027627418e+00 interp. value: +3.01459964300712535e+00 error +2.27269148833642021e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.01500815638084152e+00 interp. value: +3.01500759636239657e+00 error +5.60018444950571848e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +3.01563265569245420e+00 interp. value: +3.01563291984960502e+00 error +2.64157150819954722e-07 
+Processing point: +95
+Processing point: +96
+Missed point: value Id +0 real value: +3.01759956612936620e+00 interp. value: +3.01759905581098797e+00 error +5.10318378221796820e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +3.01861870702277102e+00 interp. value: +3.01861818703082729e+00 error +5.19991943725983674e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.01906687711698707e+00 interp. value: +3.01906647602213773e+00 error +4.01094849333816228e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.01855678188094689e+00 interp. value: +3.01855703954600108e+00 error +2.57665054181899222e-07 
+Processing point: +0
+Processing point: +1
+Missed point: value Id +0 real value: +3.01418843543568205e+00 interp. value: +3.01418909973091065e+00 error +6.64295228602895804e-07 
+Processing point: +2
+Missed point: value Id +0 real value: +3.01442039232285275e+00 interp. value: +3.01442092583481180e+00 error +5.33511959055488205e-07 
+Processing point: +3
+Processing point: +4
+Missed point: value Id +0 real value: +3.01542169037878294e+00 interp. value: +3.01542202981655905e+00 error +3.39437776109008382e-07 
+Processing point: +5
+Missed point: value Id +0 real value: +3.01625715500406688e+00 interp. value: +3.01625729532809883e+00 error +1.40324031949745631e-07 
+Processing point: +6
+Missed point: value Id +0 real value: +3.01728049421217204e+00 interp. value: +3.01728086120419370e+00 error +3.66992021660905721e-07 
+Processing point: +7
+Missed point: value Id +0 real value: +3.01825135448652793e+00 interp. value: +3.01825156324703370e+00 error +2.08760505771010685e-07 
+Processing point: +8
+Missed point: value Id +0 real value: +3.01874150772774330e+00 interp. value: +3.01874121994640854e+00 error +2.87781334762371444e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +3.01842768370392456e+00 interp. value: +3.01842795282519871e+00 error +2.69121274154571211e-07 
+Processing point: +10
+Missed point: value Id +0 real value: +3.01381163669136454e+00 interp. value: +3.01381143330444523e+00 error +2.03386919306325353e-07 
+Processing point: +11
+Missed point: value Id +0 real value: +3.01391344582283738e+00 interp. value: +3.01391392372715883e+00 error +4.77904321449784675e-07 
+Processing point: +12
+Missed point: value Id +0 real value: +3.01414750186735825e+00 interp. value: +3.01414806200385410e+00 error +5.60136495852958660e-07 
+Processing point: +13
+Processing point: +14
+Processing point: +15
+Missed point: value Id +0 real value: +3.01601260317279651e+00 interp. value: +3.01601240202518195e+00 error +2.01147614564689547e-07 
+Processing point: +16
+Missed point: value Id +0 real value: +3.01704958690367686e+00 interp. value: +3.01705007314376417e+00 error +4.86240087305134239e-07 
+Processing point: +17
+Processing point: +18
+Missed point: value Id +0 real value: +3.01872891278364364e+00 interp. value: +3.01872860035498336e+00 error +3.12428660276253822e-07 
+Processing point: +19
+Missed point: value Id +0 real value: +3.01872156573291894e+00 interp. value: +3.01872138957874370e+00 error +1.76154175246523437e-07 
+Processing point: +20
+Missed point: value Id +0 real value: +3.01345477994187183e+00 interp. value: +3.01345499660831528e+00 error +2.16666443453306101e-07 
+Processing point: +21
+Missed point: value Id +0 real value: +3.01355868823069439e+00 interp. value: +3.01355917766437331e+00 error +4.89433678918516080e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +3.01379169469653974e+00 interp. value: +3.01379226289684299e+00 error +5.68200303252552885e-07 
+Processing point: +23
+Missed point: value Id +0 real value: +3.01420417911580696e+00 interp. value: +3.01420483402411277e+00 error +6.54908305808277191e-07 
+Processing point: +24
+Processing point: +25
+Missed point: value Id +0 real value: +3.01574810934670223e+00 interp. value: +3.01574824313016832e+00 error +1.33783466083059466e-07 
+Processing point: +26
+Missed point: value Id +0 real value: +3.01690999293990414e+00 interp. value: +3.01691066380278317e+00 error +6.70862879026401515e-07 
+Processing point: +27
+Processing point: +28
+Processing point: +29
+Processing point: +30
+Missed point: value Id +0 real value: +3.01303494847187947e+00 interp. value: +3.01303565726965994e+00 error +7.08797780468728433e-07 
+Processing point: +31
+Processing point: +32
+Missed point: value Id +0 real value: +3.01336556575449821e+00 interp. value: +3.01336590629962453e+00 error +3.40545126320535019e-07 
+Processing point: +33
+Missed point: value Id +0 real value: +3.01377700059509035e+00 interp. value: +3.01377678938926508e+00 error +2.11205825273452774e-07 
+Processing point: +34
+Missed point: value Id +0 real value: +3.01445292926177721e+00 interp. value: +3.01445276992084565e+00 error +1.59340931560336685e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +3.01545317773903276e+00 interp. value: +3.01545329781418925e+00 error +1.20075156484489298e-07 
+Processing point: +36
+Missed point: value Id +0 real value: +3.01683442327530571e+00 interp. value: +3.01683489018098960e+00 error +4.66905683893514833e-07 
+Processing point: +37
+Missed point: value Id +0 real value: +3.01843083243994981e+00 interp. value: +3.01843061249926459e+00 error +2.19940685219910392e-07 
+Processing point: +38
+Missed point: value Id +0 real value: +3.01988554848347146e+00 interp. value: +3.01988569579260169e+00 error +1.47309130227313290e-07 
+Processing point: +39
+Processing point: +40
+Adding point :+40
+Processing point: +41
+Adding point :+41
+Processing point: +42
+Adding point :+42
+Processing point: +43
+Adding point :+43
+Processing point: +44
+Adding point :+44
+Processing point: +45
+Adding point :+45
+Processing point: +46
+Adding point :+46
+Processing point: +47
+Adding point :+47
+Processing point: +48
+Adding point :+48
+Processing point: +49
+Adding point :+49
+Processing point: +50
+Adding point :+50
+Processing point: +51
+Adding point :+51
+Processing point: +52
+Adding point :+52
+Processing point: +53
+Adding point :+53
+Processing point: +54
+Adding point :+54
+Processing point: +55
+Adding point :+55
+Processing point: +56
+Adding point :+56
+Processing point: +57
+Adding point :+57
+Processing point: +58
+Adding point :+58
+Processing point: +59
+Adding point :+59
+Processing point: +60
+Adding point :+60
+Processing point: +61
+Adding point :+61
+Processing point: +62
+Adding point :+62
+Processing point: +63
+Adding point :+63
+Processing point: +64
+Adding point :+64
+Processing point: +65
+Adding point :+65
+Processing point: +66
+Adding point :+66
+Processing point: +67
+Adding point :+67
+Processing point: +68
+Adding point :+68
+Processing point: +69
+Adding point :+69
+Processing point: +70
+Adding point :+70
+Processing point: +71
+Adding point :+71
+Processing point: +72
+Adding point :+72
+Processing point: +73
+Adding point :+73
+Processing point: +74
+Adding point :+74
+Processing point: +75
+Adding point :+75
+Processing point: +76
+Adding point :+76
+Processing point: +77
+Adding point :+77
+Processing point: +78
+Adding point :+78
+Processing point: +79
+Adding point :+79
+Processing point: +80
+Adding point :+80
+Processing point: +81
+Adding point :+81
+Processing point: +82
+Adding point :+82
+Processing point: +83
+Adding point :+83
+Processing point: +84
+Adding point :+84
+Processing point: +85
+Adding point :+85
+Processing point: +86
+Adding point :+86
+Processing point: +87
+Adding point :+87
+Processing point: +88
+Adding point :+88
+Processing point: +89
+Adding point :+89
+Processing point: +90
+Adding point :+90
+Processing point: +91
+Adding point :+91
+Processing point: +92
+Adding point :+92
+Processing point: +93
+Adding point :+93
+Processing point: +94
+Adding point :+94
+Processing point: +95
+Adding point :+95
+Processing point: +96
+Adding point :+96
+Processing point: +97
+Adding point :+97
+Processing point: +98
+Adding point :+98
+Processing point: +99
+Missed point: value Id +0 real value: +2.35823954840576056e+00 interp. value: +2.35823884625980229e+00 error +7.02145958264566161e-07 
+Processing point: +0
+Adding point :+0
+Processing point: +1
+Adding point :+1
+Processing point: +2
+Adding point :+2
+Processing point: +3
+Missed point: value Id +0 real value: +2.70766423130127842e+00 interp. value: +2.70766477813971251e+00 error +5.46838434090091141e-07 
+Processing point: +4
+Missed point: value Id +0 real value: +2.71768980680468308e+00 interp. value: +2.71769038371634553e+00 error +5.76911662442114448e-07 
+Processing point: +5
+Missed point: value Id +0 real value: +2.71736968530881429e+00 interp. value: +2.71736995786377156e+00 error +2.72554957270187970e-07 
+Missed point: value Id +1 real value: -1.52222704305369633e-01 interp. value: -1.52222816432476954e-01 error +1.12127107321224884e-07 
+Processing point: +6
+Adding point :+6
+Processing point: +7
+Adding point :+7
+Processing point: +8
+Missed point: value Id +0 real value: +1.98094855168953510e+00 interp. value: +1.98094822836975459e+00 error +3.23319780504149890e-07 
+Processing point: +9
+Adding point :+9
+Processing point: +10
+Missed point: value Id +0 real value: +2.63989923372989876e+00 interp. value: +2.63989890136141137e+00 error +3.32368487399037349e-07 
+Processing point: +11
+Missed point: value Id +0 real value: +2.80788639981772592e+00 interp. value: +2.80788702278433444e+00 error +6.22966608521124954e-07 
+Missed point: value Id +1 real value: -1.41287563922227660e-01 interp. value: -1.41287686780538546e-01 error +1.22858310885876065e-07 
+Processing point: +12
+Adding point :+12
+Processing point: +13
+Missed point: value Id +0 real value: +2.97396333271709068e+00 interp. value: +2.97396304544750212e+00 error +2.87269588561400724e-07 
+Processing point: +14
+Adding point :+14
+Processing point: +15
+Adding point :+15
+Processing point: +16
+Adding point :+16
+Processing point: +17
+Adding point :+17
+Processing point: +18
+Adding point :+18
+Processing point: +19
+Adding point :+19
+Processing point: +20
+Missed point: value Id +0 real value: +2.63450754807652876e+00 interp. value: +2.63450777720609963e+00 error +2.29129570872288468e-07 
+Missed point: value Id +2 real value: -7.12797636634309395e-01 interp. value: -7.12797739363647098e-01 error +1.02729337703166834e-07 
+Processing point: +21
+Missed point: value Id +0 real value: +2.88983015570940482e+00 interp. value: +2.88982945935778268e+00 error +6.96351622142543647e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +3.05489529476608945e+00 interp. value: +3.05489458143514980e+00 error +7.13330939650091977e-07 
+Missed point: value Id +1 real value: -1.70823862372694785e-01 interp. value: -1.70823979665256254e-01 error +1.17292561468973489e-07 
+Processing point: +23
+Adding point :+23
+Processing point: +24
+Adding point :+24
+Processing point: +25
+Adding point :+25
+Processing point: +26
+Adding point :+26
+Processing point: +27
+Adding point :+27
+Processing point: +28
+Adding point :+28
+Processing point: +29
+Adding point :+29
+Processing point: +30
+Adding point :+30
+Processing point: +31
+Adding point :+31
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Adding point :+33
+Processing point: +34
+Adding point :+34
+Processing point: +35
+Adding point :+35
+Processing point: +36
+Missed point: value Id +0 real value: +3.46189776461363596e+00 interp. value: +3.46189820250996627e+00 error +4.37896330307552262e-07 
+Processing point: +37
+Missed point: value Id +1 real value: -1.97123889936729940e-01 interp. value: -1.97123782354194449e-01 error +1.07582535491257403e-07 
+Processing point: +38
+Processing point: +39
+Adding point :+39
+Processing point: +40
+Adding point :+40
+Processing point: +41
+Adding point :+41
+Processing point: +42
+Adding point :+42
+Processing point: +43
+Missed point: value Id +0 real value: +3.28784298420575150e+00 interp. value: +3.28784402360646233e+00 error +1.03940071083385988e-06 
+Processing point: +44
+Missed point: value Id +0 real value: +3.43535916781677741e+00 interp. value: +3.43535987185448599e+00 error +7.04037708576521482e-07 
+Processing point: +45
+Missed point: value Id +0 real value: +3.53001437104113380e+00 interp. value: +3.53001486507349815e+00 error +4.94032364350971420e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +3.59000199063091507e+00 interp. value: +3.59000171632736942e+00 error +2.74303545655385506e-07 
+Processing point: +47
+Missed point: value Id +0 real value: +3.62366722663088447e+00 interp. value: +3.62366704616538682e+00 error +1.80465497656712159e-07 
+Missed point: value Id +1 real value: -2.22439307745766757e-01 interp. value: -2.22439180031935108e-01 error +1.27713831649112208e-07 
+Processing point: +48
+Missed point: value Id +0 real value: +3.63860273117584354e+00 interp. value: +3.63860300523256175e+00 error +2.74056718208015582e-07 
+Missed point: value Id +1 real value: -2.21977912960245771e-01 interp. value: -2.21977804777856003e-01 error +1.08182389768618492e-07 
+Processing point: +49
+Missed point: value Id +0 real value: +3.63875596966239057e+00 interp. value: +3.63875580417030875e+00 error +1.65492081816154268e-07 
+Missed point: value Id +1 real value: -2.22287223795762240e-01 interp. value: -2.22287106542090107e-01 error +1.17253672132777709e-07 
+Processing point: +50
+Adding point :+50
+Processing point: +51
+Adding point :+51
+Processing point: +52
+Missed point: value Id +0 real value: +2.31544507709081904e+00 interp. value: +2.31544460163157950e+00 error +4.75459239535069855e-07 
+Processing point: +53
+Adding point :+53
+Processing point: +54
+Adding point :+54
+Processing point: +55
+Missed point: value Id +0 real value: +2.65067001009253866e+00 interp. value: +2.65066953933875116e+00 error +4.70753787507049992e-07 
+Processing point: +56
+Missed point: value Id +0 real value: +2.72012063101593604e+00 interp. value: +2.72011988459373244e+00 error +7.46422203601326828e-07 
+Processing point: +57
+Missed point: value Id +0 real value: +2.77573045795237761e+00 interp. value: +2.77572892741898425e+00 error +1.53053339335684768e-06 
+Processing point: +58
+Missed point: value Id +0 real value: +2.82042256751168186e+00 interp. value: +2.82042099694947934e+00 error +1.57056220251305945e-06 
+Processing point: +59
+Missed point: value Id +0 real value: +2.85649028909867919e+00 interp. value: +2.85649046147779861e+00 error +1.72379119423027305e-07 
+Processing point: +60
+Missed point: value Id +0 real value: +2.88568327036456029e+00 interp. value: +2.88568299447905430e+00 error +2.75885505995887570e-07 
+Processing point: +61
+Missed point: value Id +0 real value: +2.90939535178969866e+00 interp. value: +2.90939525169835456e+00 error +1.00091344101826962e-07 
+Processing point: +62
+Missed point: value Id +0 real value: +2.92872124393209710e+00 interp. value: +2.92872155974054360e+00 error +3.15808446504917129e-07 
+Processing point: +63
+Adding point :+63
+Processing point: +64
+Processing point: +65
+Missed point: value Id +0 real value: +2.32673644447624905e+00 interp. value: +2.32673711719632870e+00 error +6.72720079641919710e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +2.45863909571827932e+00 interp. value: +2.45863890818068720e+00 error +1.87537592122311025e-07 
+Processing point: +67
+Missed point: value Id +0 real value: +2.56441563458271871e+00 interp. value: +2.56441475201463476e+00 error +8.82568083948598314e-07 
+Processing point: +68
+Missed point: value Id +0 real value: +2.64924363267324114e+00 interp. value: +2.64924272237642677e+00 error +9.10296814371491791e-07 
+Processing point: +69
+Missed point: value Id +0 real value: +2.71741796592786367e+00 interp. value: +2.71741704731248745e+00 error +9.18615376210851764e-07 
+Processing point: +70
+Missed point: value Id +0 real value: +2.77237810366449278e+00 interp. value: +2.77237713529531105e+00 error +9.68369181730821538e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +2.81682566139252710e+00 interp. value: +2.81682443855481646e+00 error +1.22283771064601865e-06 
+Missed point: value Id +1 real value: -2.62341769979669459e-01 interp. value: -2.62341634731473095e-01 error +1.35248196364567974e-07 
+Processing point: +72
+Missed point: value Id +0 real value: +2.85288498635012466e+00 interp. value: +2.85288545496742518e+00 error +4.68617300519724722e-07 
+Processing point: +73
+Missed point: value Id +0 real value: +2.88221756157977804e+00 interp. value: +2.88221714137950569e+00 error +4.20200272355231164e-07 
+Processing point: +74
+Processing point: +75
+Missed point: value Id +0 real value: +2.92564073052103213e+00 interp. value: +2.92564035791438348e+00 error +3.72606648646467420e-07 
+Processing point: +76
+Adding point :+76
+Processing point: +77
+Adding point :+77
+Processing point: +78
+Adding point :+78
+Processing point: +79
+Missed point: value Id +0 real value: +2.47900512032758291e+00 interp. value: +2.47900566864593275e+00 error +5.48318349835597019e-07 
+Missed point: value Id +1 real value: -2.36326912941626249e-01 interp. value: -2.36327014116796102e-01 error +1.01175169853195968e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +2.57591796728181999e+00 interp. value: +2.57591714712304176e+00 error +8.20158778225277274e-07 
+Processing point: +81
+Missed point: value Id +0 real value: +2.65526611511027433e+00 interp. value: +2.65526560333946460e+00 error +5.11770809730194287e-07 
+Processing point: +82
+Missed point: value Id +0 real value: +2.72006185461013716e+00 interp. value: +2.72006127348667892e+00 error +5.81123458243126834e-07 
+Missed point: value Id +1 real value: -2.54034879556543747e-01 interp. value: -2.54034773715809570e-01 error +1.05840734176965157e-07 
+Processing point: +83
+Missed point: value Id +0 real value: +2.77297111561585607e+00 interp. value: +2.77296987677831197e+00 error +1.23883754410414326e-06 
+Processing point: +84
+Missed point: value Id +0 real value: +2.81621270744633900e+00 interp. value: +2.81621098689867111e+00 error +1.72054766789386804e-06 
+Processing point: +85
+Adding point :+85
+Processing point: +86
+Adding point :+86
+Processing point: +87
+Missed point: value Id +0 real value: +2.90432378763219745e+00 interp. value: +2.90432350593455757e+00 error +2.81697639881173245e-07 
+Processing point: +88
+Processing point: +89
+Adding point :+89
+Processing point: +90
+Adding point :+90
+Processing point: +91
+Adding point :+91
+Processing point: +92
+Adding point :+92
+Processing point: +93
+Missed point: value Id +0 real value: +2.61032735456234954e+00 interp. value: +2.61032697789429147e+00 error +3.76668058077456180e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +2.67848699371552179e+00 interp. value: +2.67848643056811442e+00 error +5.63147407373065789e-07 
+Processing point: +95
+Missed point: value Id +0 real value: +2.73579293979073057e+00 interp. value: +2.73579317564549607e+00 error +2.35854765495702168e-07 
+Missed point: value Id +1 real value: -2.48379014950681459e-01 interp. value: -2.48379133604317598e-01 error +1.18653636138610352e-07 
+Processing point: +96
+Missed point: value Id +0 real value: +2.78365267779112324e+00 interp. value: +2.78365324508714318e+00 error +5.67296019937657547e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +2.82344115578092314e+00 interp. value: +2.82344154818319826e+00 error +3.92402275117831323e-07 
+Processing point: +98
+Processing point: +99
+Processing point: +0
+Missed point: value Id +0 real value: +2.90649221717470496e+00 interp. value: +2.90649195261490645e+00 error +2.64559798512919997e-07 
+Processing point: +1
+Missed point: value Id +0 real value: +2.92524189062454010e+00 interp. value: +2.92524237716765967e+00 error +4.86543119571081206e-07 
+Processing point: +2
+Adding point :+2
+Processing point: +3
+Adding point :+3
+Processing point: +4
+Adding point :+4
+Processing point: +5
+Processing point: +6
+Adding point :+6
+Processing point: +7
+Missed point: value Id +0 real value: +2.73249621317261981e+00 interp. value: +2.73249576449322396e+00 error +4.48679395859130636e-07 
+Processing point: +8
+Missed point: value Id +0 real value: +2.77610200880332059e+00 interp. value: +2.77610133081227550e+00 error +6.77991045083814470e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +2.81395296455910771e+00 interp. value: +2.81395261978468669e+00 error +3.44774421012772336e-07 
+Processing point: +10
+Missed point: value Id +0 real value: +2.84642378002695029e+00 interp. value: +2.84642394770796958e+00 error +1.67681019291876510e-07 
+Processing point: +11
+Processing point: +12
+Missed point: value Id +0 real value: +2.89734618860093329e+00 interp. value: +2.89734601769633437e+00 error +1.70904598917331896e-07 
+Processing point: +13
+Processing point: +14
+Missed point: value Id +0 real value: +2.93340761271588102e+00 interp. value: +2.93340817486887584e+00 error +5.62152994820763752e-07 
+Processing point: +15
+Adding point :+15
+Processing point: +16
+Adding point :+16
+Processing point: +17
+Missed point: value Id +0 real value: +2.76002981055335805e+00 interp. value: +2.76002945274610845e+00 error +3.57807249606878486e-07 
+Processing point: +18
+Processing point: +19
+Missed point: value Id +0 real value: +2.80407118133417521e+00 interp. value: +2.80407183760221201e+00 error +6.56268036802742927e-07 
+Processing point: +20
+Processing point: +21
+Missed point: value Id +0 real value: +2.85160135163062423e+00 interp. value: +2.85160182695837117e+00 error +4.75327746940479301e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +2.87369918105364386e+00 interp. value: +2.87369940290376746e+00 error +2.21850123605094041e-07 
+Processing point: +23
+Missed point: value Id +0 real value: +2.89383849666915172e+00 interp. value: +2.89383821418840315e+00 error +2.82480748570179685e-07 
+Processing point: +24
+Missed point: value Id +0 real value: +2.91179993653407676e+00 interp. value: +2.91180023058299886e+00 error +2.94048922100387244e-07 
+Processing point: +25
+Missed point: value Id +0 real value: +2.92754361665876983e+00 interp. value: +2.92754343740753287e+00 error +1.79251236964717009e-07 
+Processing point: +26
+Missed point: value Id +0 real value: +2.94121752763640387e+00 interp. value: +2.94121718460974257e+00 error +3.43026661298040381e-07 
+Processing point: +27
+Missed point: value Id +0 real value: +2.95295706511604994e+00 interp. value: +2.95295741266516254e+00 error +3.47549112600376020e-07 
+Processing point: +28
+Adding point :+28
+Processing point: +29
+Adding point :+29
+Processing point: +30
+Missed point: value Id +0 real value: +2.98063235561791107e+00 interp. value: +2.98063180572709907e+00 error +5.49890811996078810e-07 
+Missed point: value Id +2 real value: -3.96282283177040229e-01 interp. value: -3.96282411515177735e-01 error +1.28338137506123218e-07 
+Processing point: +31
+Adding point :+31
+Processing point: +32
+Adding point :+32
+Processing point: +33
+Adding point :+33
+Processing point: +34
+Adding point :+34
+Processing point: +35
+Adding point :+35
+Processing point: +36
+Missed point: value Id +0 real value: +2.96857584537842056e+00 interp. value: +2.96857548655770431e+00 error +3.58820716250818350e-07 
+Processing point: +37
+Adding point :+37
+Processing point: +38
+Missed point: value Id +0 real value: +2.97798321904226260e+00 interp. value: +2.97798265744988466e+00 error +5.61592377934516662e-07 
+Processing point: +39
+Adding point :+39
+Processing point: +40
+Missed point: value Id +0 real value: +2.98704423174336098e+00 interp. value: +2.98704455696148230e+00 error +3.25218121322023990e-07 
+Processing point: +41
+Missed point: value Id +0 real value: +3.25157164435580803e+00 interp. value: +3.25157220201261721e+00 error +5.57656809174744694e-07 
+Missed point: value Id +2 real value: -4.87998666111453594e-01 interp. value: -4.87998552789316309e-01 error +1.13322137285098989e-07 
+Processing point: +42
+Adding point :+42
+Processing point: +43
+Adding point :+43
+Processing point: +44
+Missed point: value Id +0 real value: +3.16445031686045475e+00 interp. value: +3.16445007711982962e+00 error +2.39740625129769569e-07 
+Processing point: +45
+Processing point: +46
+Adding point :+46
+Processing point: +47
+Adding point :+47
+Processing point: +48
+Missed point: value Id +0 real value: +3.07427681457826152e+00 interp. value: +3.07427724839433436e+00 error +4.33816072842319045e-07 
+Processing point: +49
+Missed point: value Id +0 real value: +3.06151078915448549e+00 interp. value: +3.06151113790699370e+00 error +3.48752508205762979e-07 
+Processing point: +50
+Adding point :+50
+Processing point: +51
+Adding point :+51
+Processing point: +52
+Missed point: value Id +0 real value: +3.03786693034322086e+00 interp. value: +3.03786727733571515e+00 error +3.46992494293374421e-07 
+Processing point: +53
+Missed point: value Id +0 real value: +3.03322779259981123e+00 interp. value: +3.03322813783790979e+00 error +3.45238098553579675e-07 
+Processing point: +54
+Missed point: value Id +0 real value: +3.45930425570776112e+00 interp. value: +3.45930455582415375e+00 error +3.00116392626392781e-07 
+Processing point: +55
+Missed point: value Id +0 real value: +3.42686072928546803e+00 interp. value: +3.42686050909417705e+00 error +2.20191290978277721e-07 
+Processing point: +56
+Adding point :+56
+Processing point: +57
+Missed point: value Id +0 real value: +3.33613199988421094e+00 interp. value: +3.33613258508944499e+00 error +5.85205234049368528e-07 
+Processing point: +58
+Adding point :+58
+Processing point: +59
+Adding point :+59
+Processing point: +60
+Adding point :+60
+Processing point: +61
+Missed point: value Id +0 real value: +3.18034723547169529e+00 interp. value: +3.18034747514293725e+00 error +2.39671241963890225e-07 
+Processing point: +62
+Missed point: value Id +0 real value: +3.15295638079075369e+00 interp. value: +3.15295586051120402e+00 error +5.20279549665048080e-07 
+Processing point: +63
+Missed point: value Id +0 real value: +3.12977643575383047e+00 interp. value: +3.12977611158119418e+00 error +3.24172636290143146e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.11034873447995874e+00 interp. value: +3.11034818835384641e+00 error +5.46126112332956382e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.09411700027140002e+00 interp. value: +3.09411667037964033e+00 error +3.29891759687228614e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.08069708733311165e+00 interp. value: +3.08069688337415970e+00 error +2.03958951949800849e-07 
+Processing point: +67
+Adding point :+67
+Processing point: +68
+Adding point :+68
+Processing point: +69
+Adding point :+69
+Processing point: +70
+Missed point: value Id +0 real value: +3.46655159645849498e+00 interp. value: +3.46655124061694186e+00 error +3.55841553112412612e-07 
+Missed point: value Id +2 real value: -2.18082191792324132e-01 interp. value: -2.18082082111262093e-01 error +1.09681062038236021e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +3.40858861413274905e+00 interp. value: +3.40858790467672090e+00 error +7.09456028147315010e-07 
+Processing point: +72
+Missed point: value Id +0 real value: +3.35402311797791208e+00 interp. value: +3.35402234642706976e+00 error +7.71550842326718112e-07 
+Processing point: +73
+Missed point: value Id +0 real value: +3.30426679131183132e+00 interp. value: +3.30426663189618086e+00 error +1.59415650458072378e-07 
+Processing point: +74
+Missed point: value Id +0 real value: +3.25999871153721887e+00 interp. value: +3.25999831739058177e+00 error +3.94146637106018716e-07 
+Processing point: +75
+Missed point: value Id +0 real value: +3.22128815084662268e+00 interp. value: +3.22128837874762697e+00 error +2.27901004290487208e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.18792624308372252e+00 interp. value: +3.18792575845466875e+00 error +4.84629053776330920e-07 
+Processing point: +77
+Missed point: value Id +0 real value: +3.15945537194622705e+00 interp. value: +3.15945488117470230e+00 error +4.90771524752631194e-07 
+Processing point: +78
+Missed point: value Id +0 real value: +3.13538118587822145e+00 interp. value: +3.13538143020322968e+00 error +2.44325008225132478e-07 
+Processing point: +79
+Missed point: value Id +0 real value: +3.11510332587761640e+00 interp. value: +3.11510348987505026e+00 error +1.63997433855200825e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +2.94481338417688354e+00 interp. value: +2.94481562058755353e+00 error +2.23641066998681026e-06 
+Processing point: +81
+Missed point: value Id +0 real value: +2.95791212604062848e+00 interp. value: +2.95791118190522440e+00 error +9.44135404079560203e-07 
+Processing point: +82
+Processing point: +83
+Missed point: value Id +0 real value: +2.97718448967060301e+00 interp. value: +2.97718462473837731e+00 error +1.35067774298391896e-07 
+Processing point: +84
+Processing point: +85
+Missed point: value Id +0 real value: +2.98988019332315602e+00 interp. value: +2.98987925835913071e+00 error +9.34964025312012836e-07 
+Processing point: +86
+Missed point: value Id +0 real value: +2.99448784370631582e+00 interp. value: +2.99448794496130377e+00 error +1.01254987949772612e-07 
+Processing point: +87
+Missed point: value Id +0 real value: +2.99821699673851816e+00 interp. value: +2.99821770705994917e+00 error +7.10321431007798765e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.00122613879968458e+00 interp. value: +3.00122666457315335e+00 error +5.25773468762480434e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.00364436806683743e+00 interp. value: +3.00364458214702568e+00 error +2.14080188243315206e-07 
+Processing point: +90
+Missed point: value Id +0 real value: +2.94254314550290275e+00 interp. value: +2.94254231562223900e+00 error +8.29880663744120284e-07 
+Processing point: +91
+Missed point: value Id +0 real value: +2.95676493654887595e+00 interp. value: +2.95676510149200311e+00 error +1.64943127156647051e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +2.96799123005645704e+00 interp. value: +2.96799032888788306e+00 error +9.01168573985700050e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +2.97694518573270761e+00 interp. value: +2.97694532002864598e+00 error +1.34295938369888290e-07 
+Processing point: +94
+Missed point: value Id +0 real value: +2.98412745260559298e+00 interp. value: +2.98412582766073831e+00 error +1.62494485467234995e-06 
+Processing point: +95
+Missed point: value Id +0 real value: +2.98989488742460541e+00 interp. value: +2.98989450204064866e+00 error +3.85383956746920830e-07 
+Processing point: +96
+Missed point: value Id +0 real value: +2.99453612432536520e+00 interp. value: +2.99453594328453709e+00 error +1.81040828106660001e-07 
+Processing point: +97
+Missed point: value Id +0 real value: +2.99827157482961715e+00 interp. value: +2.99827167496239433e+00 error +1.00132777181016763e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.00127441941873396e+00 interp. value: +3.00127395414792808e+00 error +4.65270805882767036e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.00368320247781195e+00 interp. value: +3.00368300715886338e+00 error +1.95318948570388784e-07 
+Processing point: +0
+Missed point: value Id +0 real value: +2.94131198971715158e+00 interp. value: +2.94131219559754209e+00 error +2.05880390513613065e-07 
+Processing point: +1
+Missed point: value Id +0 real value: +2.95634825381490929e+00 interp. value: +2.95634841593428277e+00 error +1.62119373481317552e-07 
+Processing point: +2
+Missed point: value Id +0 real value: +2.96804790730490620e+00 interp. value: +2.96804759604669766e+00 error +3.11258208540721171e-07 
+Processing point: +3
+Processing point: +4
+Missed point: value Id +0 real value: +2.98442658252796189e+00 interp. value: +2.98442695660180135e+00 error +3.74073839459754254e-07 
+Processing point: +5
+Missed point: value Id +0 real value: +2.99018457113889990e+00 interp. value: +2.99018468389329328e+00 error +1.12754393377656470e-07 
+Processing point: +6
+Missed point: value Id +0 real value: +2.99478487447133501e+00 interp. value: +2.99478507613077793e+00 error +2.01659442922164089e-07 
+Processing point: +7
+Missed point: value Id +0 real value: +2.99847309393521311e+00 interp. value: +2.99847276775121463e+00 error +3.26183998478057902e-07 
+Processing point: +8
+Missed point: value Id +0 real value: +3.00143080664130579e+00 interp. value: +3.00143123729696182e+00 error +4.30655656025180633e-07 
+Processing point: +9
+Missed point: value Id +0 real value: +3.00379865613205999e+00 interp. value: +3.00379840119015107e+00 error +2.54941908917061255e-07 
+Processing point: +10
+Missed point: value Id +0 real value: +2.94266069831450050e+00 interp. value: +2.94266087548042687e+00 error +1.77165926373845650e-07 
+Processing point: +11
+Adding point :+11
+Processing point: +12
+Missed point: value Id +0 real value: +2.96962542405340013e+00 interp. value: +2.96962555761700298e+00 error +1.33563602844333218e-07 
+Processing point: +13
+Processing point: +14
+Missed point: value Id +0 real value: +2.98561785432406390e+00 interp. value: +2.98561835802912290e+00 error +5.03705058996217758e-07 
+Processing point: +15
+Missed point: value Id +0 real value: +2.99113968773313088e+00 interp. value: +2.99113918926016220e+00 error +4.98472968679664064e-07 
+Processing point: +16
+Processing point: +17
+Missed point: value Id +0 real value: +2.99904406473440233e+00 interp. value: +2.99904377973552894e+00 error +2.84998873389952223e-07 
+Processing point: +18
+Missed point: value Id +0 real value: +3.00185798516202285e+00 interp. value: +3.00185748423113230e+00 error +5.00930890545703278e-07 
+Processing point: +19
+Missed point: value Id +0 real value: +3.00411248015587873e+00 interp. value: +3.00411232418991547e+00 error +1.55965963255511042e-07 
+Processing point: +20
+Adding point :+20
+Processing point: +21
+Missed point: value Id +0 real value: +2.96369425496109073e+00 interp. value: +2.96369410436145619e+00 error +1.50599634540782290e-07 
+Processing point: +22
+Missed point: value Id +0 real value: +2.97433383398935858e+00 interp. value: +2.97433328220042847e+00 error +5.51788930103214170e-07 
+Processing point: +23
+Missed point: value Id +1 real value: -2.66719037843671736e-01 interp. value: -2.66719140348670558e-01 error +1.02504998822361415e-07 
+Processing point: +24
+Missed point: value Id +0 real value: +2.98860285607570564e+00 interp. value: +2.98860207266821254e+00 error +7.83407493099019803e-07 
+Missed point: value Id +1 real value: -2.67407771370193281e-01 interp. value: -2.67407962114122988e-01 error +1.90743929706638227e-07 
+Processing point: +25
+Missed point: value Id +1 real value: -2.67948934135012695e-01 interp. value: -2.67949093785103232e-01 error +1.59650090536533895e-07 
+Processing point: +26
+Missed point: value Id +0 real value: +2.99732065655008606e+00 interp. value: +2.99732001664570502e+00 error +6.39904381039002601e-07 
+Missed point: value Id +1 real value: -2.68375692824259438e-01 interp. value: -2.68375948911190376e-01 error +2.56086930938703716e-07 
+Processing point: +27
+Missed point: value Id +0 real value: +3.00040536827585091e+00 interp. value: +3.00040452711279526e+00 error +8.41163055653737501e-07 
+Missed point: value Id +1 real value: -2.68711033210915384e-01 interp. value: -2.68711350858095332e-01 error +3.17647179948199465e-07 
+Processing point: +28
+Missed point: value Id +0 real value: +3.00288237394880264e+00 interp. value: +3.00288289933867425e+00 error +5.25389871608439307e-07 
+Processing point: +29
+Processing point: +30
+Missed point: value Id +0 real value: +2.96502512072096458e+00 interp. value: +2.96502454113141045e+00 error +5.79589554128290274e-07 
+Processing point: +31
+Missed point: value Id +0 real value: +2.97616324961984802e+00 interp. value: +2.97616262138521392e+00 error +6.28234634092450506e-07 
+Processing point: +32
+Missed point: value Id +0 real value: +2.98416838617391722e+00 interp. value: +2.98416813241886469e+00 error +2.53755052526116742e-07 
+Processing point: +33
+Missed point: value Id +0 real value: +2.99010690231695131e+00 interp. value: +2.99010678115910578e+00 error +1.21157845534014541e-07 
+Missed point: value Id +1 real value: -2.65745133791158161e-01 interp. value: -2.65745273819440186e-01 error +1.40028282025195239e-07 
+Processing point: +34
+Missed point: value Id +0 real value: +2.99463163598478799e+00 interp. value: +2.99463129213197288e+00 error +3.43852815110068377e-07 
+Missed point: value Id +1 real value: -2.66634861633938347e-01 interp. value: -2.66635065170058305e-01 error +2.03536119958158679e-07 
+Processing point: +35
+Missed point: value Id +0 real value: +2.99816451780476978e+00 interp. value: +2.99816404891514443e+00 error +4.68889625349078187e-07 
+Missed point: value Id +1 real value: -2.67330417421847266e-01 interp. value: -2.67330608286979687e-01 error +1.90865132421169648e-07 
+Processing point: +36
+Missed point: value Id +0 real value: +3.00097004160298964e+00 interp. value: +3.00097014357447156e+00 error +1.01971481925033913e-07 
+Processing point: +37
+Missed point: value Id +0 real value: +3.00322033828214607e+00 interp. value: +3.00322082571802218e+00 error +4.87435876106445676e-07 
+Processing point: +38
+Processing point: +39
+Missed point: value Id +0 real value: +3.00653175900170622e+00 interp. value: +3.00653193722332457e+00 error +1.78221618352125688e-07 
+Processing point: +40
+Processing point: +41
+Missed point: value Id +0 real value: +2.99726817761633679e+00 interp. value: +2.99726804057072549e+00 error +1.37045611303676651e-07 
+Processing point: +42
+Missed point: value Id +0 real value: +3.00064047389904642e+00 interp. value: +3.00064069774463693e+00 error +2.23845590507920633e-07 
+Processing point: +43
+Processing point: +44
+Missed point: value Id +0 real value: +3.00481149955341476e+00 interp. value: +3.00481088768116011e+00 error +6.11872254641099289e-07 
+Processing point: +45
+Missed point: value Id +0 real value: +3.00620743919113753e+00 interp. value: +3.00620761120012769e+00 error +1.72008990162453301e-07 
+Processing point: +46
+Missed point: value Id +0 real value: +3.00733048837336581e+00 interp. value: +3.00732976084900550e+00 error +7.27524360311093687e-07 
+Processing point: +47
+Missed point: value Id +0 real value: +3.00826251423674762e+00 interp. value: +3.00826183476271103e+00 error +6.79474036591187769e-07 
+Processing point: +48
+Processing point: +49
+Missed point: value Id +0 real value: +3.00967839586929520e+00 interp. value: +3.00967762552487583e+00 error +7.70344419365187605e-07 
+Processing point: +50
+Missed point: value Id +0 real value: +3.02920580711729004e+00 interp. value: +3.02920562360561485e+00 error +1.83511675189151902e-07 
+Processing point: +51
+Missed point: value Id +0 real value: +3.02572855296708276e+00 interp. value: +3.02572842661916352e+00 error +1.26347919238156692e-07 
+Processing point: +52
+Missed point: value Id +0 real value: +3.02288839307258739e+00 interp. value: +3.02288915564687866e+00 error +7.62574291268691695e-07 
+Processing point: +53
+Missed point: value Id +0 real value: +3.02066118712428100e+00 interp. value: +3.02066218685766508e+00 error +9.99733384077217124e-07 
+Processing point: +54
+Missed point: value Id +0 real value: +3.01892938231056496e+00 interp. value: +3.01892901613669906e+00 error +3.66173865895547124e-07 
+Processing point: +55
+Processing point: +56
+Missed point: value Id +0 real value: +3.01655418576908607e+00 interp. value: +3.01655367503271821e+00 error +5.10736367864694785e-07 
+Processing point: +57
+Missed point: value Id +0 real value: +3.01575860513345173e+00 interp. value: +3.01575834012704602e+00 error +2.65006405708589909e-07 
+Processing point: +58
+Missed point: value Id +0 real value: +3.01515509739533849e+00 interp. value: +3.01515543540764508e+00 error +3.38012306588808542e-07 
+Processing point: +59
+Missed point: value Id +0 real value: +3.01467963825557250e+00 interp. value: +3.01467939566397192e+00 error +2.42591600585484457e-07 
+Processing point: +60
+Missed point: value Id +0 real value: +3.06746819771366930e+00 interp. value: +3.06746796975357938e+00 error +2.27960089915768549e-07 
+Processing point: +61
+Adding point :+61
+Processing point: +62
+Adding point :+62
+Processing point: +63
+Missed point: value Id +0 real value: +3.03949902518281423e+00 interp. value: +3.03949926316276153e+00 error +2.37979947304012285e-07 
+Missed point: value Id +1 real value: -2.65320684174996435e-01 interp. value: -2.65320809987498352e-01 error +1.25812501916566788e-07 
+Processing point: +64
+Missed point: value Id +0 real value: +3.03421964444766701e+00 interp. value: +3.03421922438915637e+00 error +4.20058510641752036e-07 
+Missed point: value Id +1 real value: -2.66242109293760965e-01 interp. value: -2.66242452273264152e-01 error +3.42979503187290646e-07 
+Processing point: +65
+Missed point: value Id +0 real value: +3.03012418845789711e+00 interp. value: +3.03012431776609636e+00 error +1.29308199259270395e-07 
+Missed point: value Id +1 real value: -2.66958656655169546e-01 interp. value: -2.66959170804459411e-01 error +5.14149289865262205e-07 
+Processing point: +66
+Missed point: value Id +0 real value: +3.02691037855510947e+00 interp. value: +3.02691084735256100e+00 error +4.68797451524949338e-07 
+Missed point: value Id +1 real value: -2.67520391162018589e-01 interp. value: -2.67521078610364227e-01 error +6.87448345637609037e-07 
+Processing point: +67
+Processing point: +68
+Missed point: value Id +0 real value: +3.02234051300424866e+00 interp. value: +3.02234077546789059e+00 error +2.62463641931276470e-07 
+Processing point: +69
+Missed point: value Id +0 real value: +3.02071471563670535e+00 interp. value: +3.02071441575071375e+00 error +2.99885991594806001e-07 
+Processing point: +70
+Missed point: value Id +0 real value: +3.09534710647847611e+00 interp. value: +3.09534691078570434e+00 error +1.95692771765010320e-07 
+Processing point: +71
+Missed point: value Id +0 real value: +3.07758088824709741e+00 interp. value: +3.07758038527952715e+00 error +5.02967570259471586e-07 
+Processing point: +72
+Missed point: value Id +0 real value: +3.06411584342578447e+00 interp. value: +3.06411556999705059e+00 error +2.73428733876812657e-07 
+Processing point: +73
+Missed point: value Id +0 real value: +3.05379848505073559e+00 interp. value: +3.05379806319549152e+00 error +4.21855244070457047e-07 
+Processing point: +74
+Missed point: value Id +0 real value: +3.04584267869439085e+00 interp. value: +3.04584299878620168e+00 error +3.20091810834810531e-07 
+Processing point: +75
+Missed point: value Id +0 real value: +3.03964386703996148e+00 interp. value: +3.03964337608095869e+00 error +4.90959002785729126e-07 
+Processing point: +76
+Missed point: value Id +0 real value: +3.03477487156673087e+00 interp. value: +3.03477442202024683e+00 error +4.49546484038165772e-07 
+Processing point: +77
+Missed point: value Id +0 real value: +3.03090612457075670e+00 interp. value: +3.03090559421106898e+00 error +5.30359687722636863e-07 
+Processing point: +78
+Processing point: +79
+Missed point: value Id +0 real value: +3.02527303582214158e+00 interp. value: +3.02527322741717786e+00 error +1.91595036280745035e-07 
+Processing point: +80
+Missed point: value Id +0 real value: +3.00599962261349196e+00 interp. value: +3.00599902368615091e+00 error +5.98927341055599527e-07 
+Processing point: +81
+Missed point: value Id +0 real value: +3.00785107939615592e+00 interp. value: +3.00785056173730503e+00 error +5.17658850895941214e-07 
+Processing point: +82
+Missed point: value Id +0 real value: +3.00904654950695738e+00 interp. value: +3.00904632601892796e+00 error +2.23488029416074596e-07 
+Processing point: +83
+Processing point: +84
+Missed point: value Id +0 real value: +3.01034487832790676e+00 interp. value: +3.01034474380429806e+00 error +1.34523608696923702e-07 
+Processing point: +85
+Processing point: +86
+Processing point: +87
+Missed point: value Id +0 real value: +3.01104284814676859e+00 interp. value: +3.01104265775462610e+00 error +1.90392142496165206e-07 
+Processing point: +88
+Missed point: value Id +0 real value: +3.01112366570474199e+00 interp. value: +3.01112379684884290e+00 error +1.31144100912194972e-07 
+Processing point: +89
+Missed point: value Id +0 real value: +3.01116145053704143e+00 interp. value: +3.01116132312502627e+00 error +1.27412015160643932e-07 
+Processing point: +90
+Missed point: value Id +0 real value: +3.00601641587229151e+00 interp. value: +3.00601663600907765e+00 error +2.20136786133195983e-07 
+Processing point: +91
+Missed point: value Id +0 real value: +3.00787312054833000e+00 interp. value: +3.00787336609095757e+00 error +2.45542627563821725e-07 
+Processing point: +92
+Missed point: value Id +0 real value: +3.00906544192310710e+00 interp. value: +3.00906510569839014e+00 error +3.36224716956934344e-07 
+Processing point: +93
+Missed point: value Id +0 real value: +3.00984317972126680e+00 interp. value: +3.00984271405292292e+00 error +4.65668343885283775e-07 
+Processing point: +94
+Processing point: +95
+Missed point: value Id +0 real value: +3.01068809055462516e+00 interp. value: +3.01068829683139372e+00 error +2.06276768555113676e-07 
+Processing point: +96
+Processing point: +97
+Missed point: value Id +0 real value: +3.01104074898941843e+00 interp. value: +3.01104032328675197e+00 error +4.25702666451144296e-07 
+Processing point: +98
+Missed point: value Id +0 real value: +3.01111841781136702e+00 interp. value: +3.01111804808023065e+00 error +3.69731136373729896e-07 
+Processing point: +99
+Missed point: value Id +0 real value: +3.01115515306499093e+00 interp. value: +3.01115462752790597e+00 error +5.25537084961058554e-07 
+Number of kriging models +1.03000000000000000e+02
+Number of point/value pairs +3.25000000000000000e+02
+Level +0
+Node   Number entries   Number data leaf nodes
++0 +6 +6 
++1 +4 +4 
++2 +8 +8 
++3 +6 +6 
++4 +6 +6 
++5 +7 +7 
++6 +6 +6 
++7 +9 +9 
++8 +8 +8 
++9 +6 +6 
++10 +5 +5 
++11 +6 +6 
++12 +7 +7 
++13 +9 +9 
++14 +5 +5 
++15 +5 +5 
+Level +1
+Node   Number entries   Number data leaf nodes
++0 +6 +37 
++1 +10 +66 
+Level +2
+Node   Number entries   Number data leaf nodes
++0 +2 +103 
