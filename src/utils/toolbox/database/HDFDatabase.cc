@@ -686,7 +686,7 @@ void HDFDatabase::putBoolArray(
    herr_t errf;
    if (nelements > 0) {
 
-      hsize_t dim[] = {nelements};
+      hsize_t dim[] = {(unsigned long long)nelements};
       hid_t space = H5Screate_simple(1, dim, NULL);
 #ifdef ASSERT_HDF5_RETURN_VALUES
       assert( space >= 0 );
@@ -1233,7 +1233,7 @@ void HDFDatabase::putDoubleArray(
    herr_t errf;
    if (nelements > 0) {
 
-      hsize_t dim[] = {nelements};
+      hsize_t dim[] = {(unsigned long long)nelements};
       hid_t space = H5Screate_simple(1, dim, NULL);
 #ifdef ASSERT_HDF5_RETURN_VALUES
       assert( space >= 0 );
@@ -1478,7 +1478,7 @@ void HDFDatabase::putFloatArray(
    herr_t errf;
    if (nelements > 0) {
 
-      hsize_t dim[] = {nelements};
+      hsize_t dim[] = {(unsigned long long)nelements};
       hid_t space = H5Screate_simple(1, dim, NULL);
 #ifdef ASSERT_HDF5_RETURN_VALUES
       assert( space >= 0 );
@@ -1722,7 +1722,7 @@ void HDFDatabase::putIntegerArray(
    herr_t errf;
    if (nelements > 0) {
 
-      hsize_t dim[] = {nelements};
+      hsize_t dim[] = {(unsigned long long)nelements};
       hid_t space = H5Screate_simple(1, dim, NULL);
 #ifdef ASSERT_HDF5_RETURN_VALUES
       assert(space >= 0);
@@ -1998,7 +1998,7 @@ void HDFDatabase::putStringArray(
       assert( errf >= 0 );
 #endif
 
-      hsize_t dim[] = {nelements};
+      hsize_t dim[] = {(unsigned long long)nelements};
       hid_t space = H5Screate_simple(1, dim, NULL);
 #ifdef ASSERT_HDF5_RETURN_VALUES
       assert( space >= 0 );
